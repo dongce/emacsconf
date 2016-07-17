@@ -37,8 +37,8 @@
         (hs-minor-mode :location built-in)
         (holy-mode :location local :step pre)
         (hybrid-mode :location local :step pre)
-        (ido :location built-in)
-        ido-vertical-mode
+        ;;(ido :location built-in)
+        ;;ido-vertical-mode
         (package-menu :location built-in)
         page-break-lines
         popup
@@ -53,7 +53,7 @@
         restart-emacs
         savehist
         saveplace
-        spacemacs-theme
+        ;;spacemacs-theme
         subword
         undo-tree
         (uniquify :location built-in)

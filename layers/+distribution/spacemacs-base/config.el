@@ -216,8 +216,8 @@ nil."
 ;; important for golden-ratio to better work
 (setq window-combination-resize t)
 ;; fringes
-(setq-default fringe-indicator-alist
-              '((truncation . nil) (continuation . nil)))
+;; (setq-default fringe-indicator-alist
+;;               '((truncation . nil) (continuation . nil)))
 ;; Show column number in mode line
 (setq column-number-mode t)
 ;; Activate linum-mode in all prog-mode and text-mode buffers if the setting is
