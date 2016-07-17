@@ -122,7 +122,7 @@ values."
    dotspacemacs-emacs-leader-key "M-m"
    ;; Major mode leader key is a shortcut key which is the equivalent of
    ;; pressing `<leader> m`. Set it to `nil` to disable it. (default ",")
-   dotspacemacs-major-mode-leader-key ","
+   dotspacemacs-major-mode-leader-key "SPC"
    ;; Major mode leader key accessible in `emacs state' and `insert state'.
    ;; (default "C-M-m)
    dotspacemacs-major-mode-emacs-leader-key "C-M-m"
@@ -403,6 +403,7 @@ you should place your code here."
  '(evil-extra-operator-org-capture-key "Go")
  '(evil-extra-operator-remember-key "GR")
  '(evil-insert-state-msg "입력")
+ '(evil-hybrid-state-msg "입력")
  '(evil-leader/leader "SPC")
  '(evil-lisp-state-global t)
  '(evil-lisp-state-leader-prefix "q")
@@ -410,7 +411,6 @@ you should place your code here."
    (quote
     ((normal . "green4")
      (insert . "#575735")
-     (hybrid . "#575735")
      (replace . "#575735")
      (operator . "DarkSeaGreen4")
      (visual . "SteelBlue4")
