@@ -294,6 +294,7 @@ Will work on both org-mode and any mode that accepts plain html."
     (evilified-state-evilify-map org-agenda-mode-map
       :mode org-agenda-mode
       :bindings
+      ","  org-agenda-mode-map
       "j" 'org-agenda-next-line
       "k" 'org-agenda-previous-line
       (kbd "M-j") 'org-agenda-next-item
