@@ -165,7 +165,7 @@ Supported properties:
   "Open the change log for the current version."
   (interactive)
   (find-file file)
-  (org-indent-mode)
+  ;;(org-indent-mode)
   (view-mode)
   (goto-char (point-min))
 

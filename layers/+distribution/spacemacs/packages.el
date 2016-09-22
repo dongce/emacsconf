@@ -11,76 +11,76 @@
 
 (setq spacemacs-packages
       '(
-        ;; default
-        ace-jump-helm-line
-        ace-link
-        ace-window
-        adaptive-wrap
-        aggressive-indent
-        auto-highlight-symbol
-        avy
-        bracketed-paste
-        buffer-move
-        (centered-cursor :location local)
-        clean-aindent-mode
-        define-word
-        desktop
-        doc-view
-        eval-sexp-fu
-        evil-anzu
-        evil-args
-        evil-exchange
-        evil-iedit-state
-        evil-indent-plus
-        evil-lisp-state
-        ;; for testing purpose, contribute by reporting bugs and sending PRs
-        ;; to https://github.com/gabesoft/evil-mc
-        ;; To enable it add `(global-evil-mc-mode)' to user-config function
-        evil-mc
-        evil-nerd-commenter
-        evil-matchit
-        evil-numbers
-        evil-search-highlight-persist
-        ;; Temporarily disabled, pending the resolution of
-        ;; https://github.com/7696122/evil-terminal-cursor-changer/issues/8
-        (evil-terminal-cursor-changer :excluded t)
-        evil-tutor
-        expand-region
-        fancy-battery
-        flx-ido
-        golden-ratio
-        google-translate
-        helm-ag
-        helm-make
-        helm-mode-manager
-        helm-swoop
-        helm-themes
-        highlight-indentation
-        highlight-numbers
-        highlight-parentheses
-        ;; waiting for an overlay bug to be fixed
-        ;; see https://github.com/syl20bnr/spacemacs/issues/2529
-        (hl-anything :excluded t)
-        hungry-delete
-        info+
-        iedit
-        indent-guide
-        open-junk-file
-        leuven-theme
-        linum-relative
-        lorem-ipsum
-        move-text
-        neotree
-        pcre2el
-        rainbow-delimiters
-        recentf
-        smartparens
-        smooth-scrolling
+         default
+         ;;ace-jump-helm-line
+         ;;ace-link
+         ;;;;ace-window
+         ;;adaptive-wrap
+         ;;aggressive-indent
+         auto-highlight-symbol
+         ;;avy
+         bracketed-paste
+         buffer-move
+         (centered-cursor :location local)
+         ;;clean-aindent-mode
+         define-word
+         desktop
+         doc-view
+         eval-sexp-fu
+         evil-anzu
+         evil-args
+         evil-exchange
+         evil-iedit-state
+         ;;evil-indent-plus
+         evil-lisp-state
+         ;; for testing purpose, contribute by reporting bugs and sending PRs
+         ;; to https://github.com/gabesoft/evil-mc
+         ;; To enable it add `(global-evil-mc-mode)' to user-config function
+         evil-mc
+         evil-nerd-commenter
+         evil-matchit
+         evil-numbers
+         evil-search-highlight-persist
+         ;; Temporarily disabled, pending the resolution of
+         ;; https://github.com/7696122/evil-terminal-cursor-changer/issues/8
+         (evil-terminal-cursor-changer :excluded t)
+         evil-tutor
+         expand-region
+         fancy-battery
+         flx-ido
+         golden-ratio
+         google-translate
+         helm-ag
+         helm-make
+         helm-mode-manager
+         helm-swoop
+         helm-themes
+         highlight-indentation
+         highlight-numbers
+         highlight-parentheses
+         ;; waiting for an overlay bug to be fixed
+         ;; see https://github.com/syl20bnr/spacemacs/issues/2529
+         (hl-anything :excluded t)
+         hungry-delete
+         info+
+         iedit
+         indent-guide
+         open-junk-file
+         leuven-theme
+         linum-relative
+         lorem-ipsum
+         move-text
+         neotree
+         pcre2el
+         rainbow-delimiters
+         recentf
+         smartparens
+         smooth-scrolling
         spaceline
-        vi-tilde-fringe
-        volatile-highlights
+        ;;vi-tilde-fringe
+        ;;volatile-highlights
         window-numbering
-        (zoom-frm :location local)
+        ;;(zoom-frm :location local)
         ))
 
 ;; Paradox from MELPA is not compatible with 24.3, so we use

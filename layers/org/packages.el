@@ -100,9 +100,9 @@
             org-startup-with-inline-images t
             org-src-fontify-natively t)
 
-      (with-eval-after-load 'org-indent
-        (spacemacs|hide-lighter org-indent-mode))
-      (setq org-startup-indented t)
+      ;; (with-eval-after-load 'org-indent
+      ;;   (spacemacs|hide-lighter org-indent-mode))
+      ;; (setq org-startup-indented t)
       (let ((dir (configuration-layer/get-layer-property 'org :dir)))
         (setq org-export-async-init-file (concat dir "org-async-init.el")))
       (defmacro spacemacs|org-emphasize (fname char)
@@ -249,7 +249,7 @@ Will work on both org-mode and any mode that accepts plain html."
                     (2 font-lock-function-name-face)
                     (3 font-lock-comment-face prepend))))
 
-      (require 'org-indent)
+      ;;(require 'org-indent)
       (define-key global-map "\C-cl" 'org-store-link)
       (define-key global-map "\C-ca" 'org-agenda)
       (define-key global-map "\C-cc" 'org-capture)
