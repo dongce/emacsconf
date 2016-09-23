@@ -12,17 +12,17 @@
 (setq spacemacs-packages
       '(
          default
-         ;;ace-jump-helm-line
-         ;;ace-link
-         ;;;;ace-window
-         ;;adaptive-wrap
-         ;;aggressive-indent
+         ace-jump-helm-line
+         ace-link
+         ace-window
+         adaptive-wrap
+         aggressive-indent
          auto-highlight-symbol
-         ;;avy
+         ;;strange-key;; avy
          bracketed-paste
          buffer-move
          (centered-cursor :location local)
-         ;;clean-aindent-mode
+         clean-aindent-mode
          define-word
          desktop
          doc-view
@@ -31,7 +31,7 @@
          evil-args
          evil-exchange
          evil-iedit-state
-         ;;evil-indent-plus
+         evil-indent-plus
          evil-lisp-state
          ;; for testing purpose, contribute by reporting bugs and sending PRs
          ;; to https://github.com/gabesoft/evil-mc
