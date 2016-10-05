@@ -34,7 +34,7 @@
         evil-visual-mark-mode
         (hs-minor-mode :location built-in)
         linum-relative
-        vi-tilde-fringe
+        ;;vi-tilde-fringe
         ))
 
 (defun spacemacs-evil/init-evil-anzu ()

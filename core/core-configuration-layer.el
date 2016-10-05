@@ -419,11 +419,12 @@ If NO-INSTALL is non nil then install steps are skipped."
                 (configuration-layer//get-distant-packages
                  all-other-packages nil))))))
       (configuration-layer//install-packages packages)
-      (when (and (or (eq 'used dotspacemacs-install-packages)
-                     (eq 'used-only dotspacemacs-install-packages))
-                 (not configuration-layer-force-distribution)
-                 (not configuration-layer-exclude-all-layers))
-        (configuration-layer/delete-orphan-packages packages))))
+;      (when (and (or (eq 'used dotspacemacs-install-packages)
+;                     (eq 'used-only dotspacemacs-install-packages))
+;                 (not configuration-layer-force-distribution)
+;                 (not configuration-layer-exclude-all-layers))
+;        (configuration-layer/delete-orphan-packages packages))
+))
   ;; configure used packages
   (configuration-layer//configure-packages configuration-layer--used-packages)
   (configuration-layer//load-layers-files configuration-layer--used-layers

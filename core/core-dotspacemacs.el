@@ -690,7 +690,7 @@ error recovery."
         (unless hide-buffer
           (switch-to-buffer-other-window dotspacemacs-test-results-buffer))
         (org-mode)
-        (org-indent-mode)
+        ;;(org-indent-mode)
         (view-mode)
         (when (bound-and-true-p flyspell-mode)
           (flyspell-mode -1))

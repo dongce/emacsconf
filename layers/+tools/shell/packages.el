@@ -26,7 +26,7 @@
         shell-pop
         (term :location built-in)
         xterm-color
-        vi-tilde-fringe
+        ;;vi-tilde-fringe
         ))
 
 (defun shell/init-comint ()

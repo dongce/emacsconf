@@ -53,7 +53,7 @@ sets `spacemacs-jump-handlers' in buffers of that mode."
                     (not (eq old-point (point)))
                     (not (equal old-buffer (current-buffer))))
             (throw 'done t)))))
-    (message "No jump handler was able to find this symbol.")))
+    (evil-goto-definition)))
 
 ;; Set the `:jump' property manually instead of just using `evil-define-motion'
 ;; in an `eval-after-load' macro invocation because doing that prevents
