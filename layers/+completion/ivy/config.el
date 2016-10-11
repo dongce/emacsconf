@@ -16,7 +16,7 @@
   '(("ag" . "ag --nocolor --nogroup %s %S .")
     ("pt" . "pt -e --nocolor --nogroup %s %S .")
     ("ack" . "ack --nocolor --nogroup %s %S .")
-    ("grep" . "grep -nrP %s %S ."))
+    ("grep" . "grep -ainrP %s %S ."))
   "Alist of search commands and their corresponding commands
 with options to run in the shell.")
 
