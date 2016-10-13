@@ -159,7 +159,7 @@
        'counsel-recentf
        spacemacs--ivy-file-actions)
 
-      (ivy-mode 1)
+      (ivy-mode 0)
       (global-set-key (kbd "C-c C-r") 'ivy-resume)
       (global-set-key (kbd "<f6>") 'ivy-resume)
       ;; Occur

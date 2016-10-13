@@ -289,7 +289,7 @@ Navigation^^^^             Actions^^         Visual actions/config^^^
       (setq-default powerline-default-separator 'utf-8)
       (spacemacs|do-after-display-system-init
        (when (and (eq 'utf-8 powerline-default-separator))
-         (setq-default powerline-default-separator 'wave))
+         (setq-default powerline-default-separator nil))
        ;; seems to be needed to avoid weird graphical artefacts with the
        ;; first graphical client
        (require 'spaceline)
