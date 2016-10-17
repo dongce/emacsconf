@@ -120,8 +120,7 @@ Cate special text banner can de reachable via `998', `cat' or `random*'.
         (spacemacs-buffer/message (format "Banner: %s" banner))
         (if (image-type-available-p (intern (file-name-extension banner)))
             (spacemacs-buffer//insert-image-banner banner)
-          (let ((coding-system-for-read 'utf-8))
-          (spacemacs-buffer/insert-ascii-banner-centered banner)))
+          (spacemacs-buffer/insert-ascii-banner-centered banner))
         (spacemacs-buffer//inject-version))
       (spacemacs-buffer//insert-buttons)
       (spacemacs//redisplay))))
@@ -925,7 +924,10 @@ list. Return entire list if `END' is omitted."
   "Create the special buffer for `spacemacs-buffer-mode' if it doesn't
 already exist, and switch to it."
   (interactive)
-  (let ((buffer-exists (buffer-live-p (get-buffer spacemacs-buffer-name)))
+  (let ((buffer-file-coding-system 'utf-8);;sufficient
+        ;;sufficient;;(coding-system-for-read 'utf-8)
+        ;;sufficient;;(coding-system-for-write 'utf-8)
+        (buffer-exists (buffer-live-p (get-buffer spacemacs-buffer-name)))
         (save-line nil))
     (when (or (not (eq spacemacs-buffer--last-width (window-width)))
               (not buffer-exists)
