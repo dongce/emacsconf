@@ -114,6 +114,8 @@ Doge special text banner can be reachable via `999', `doge' or `random*'.
 Cate special text banner can de reachable via `998', `cat' or `random*'.
 `random' ignore special banners whereas `random*' does not."
   (let ((banner (spacemacs-buffer//choose-banner))
+        (coding-system-for-read 'utf-8)
+        (coding-system-for-write 'utf-8)
         (buffer-read-only nil))
     (progn
       (when banner
@@ -364,6 +366,8 @@ If TYPE is nil, just remove widgets."
 (defun spacemacs-buffer//insert-release-note-widget (file)
   "Insert release note with content from FILE."
   (spacemacs-buffer//remove-existing-widget-if-exist)
+  (let ((coding-system-for-read 'utf-8)
+        (coding-system-for-write 'utf-8))
   (let ((widget-func
          (lambda ()
            (add-to-list
@@ -390,7 +394,7 @@ If TYPE is nil, just remove widgets."
   (setq spacemacs-buffer--release-note-version nil)
   (spacemacs/dump-vars-to-file
    '(spacemacs-buffer--release-note-version) spacemacs-buffer--cache-file)
-  (setq spacemacs-buffer--previous-insert-type 'release-note))
+  (setq spacemacs-buffer--previous-insert-type 'release-note)))
 
 (defun spacemacs-buffer//remove-note-widgets ()
   (mapc 'widget-delete spacemacs-buffer--note-widgets)
@@ -924,9 +928,9 @@ list. Return entire list if `END' is omitted."
   "Create the special buffer for `spacemacs-buffer-mode' if it doesn't
 already exist, and switch to it."
   (interactive)
-  (let ((buffer-file-coding-system 'utf-8);;sufficient
-        ;;sufficient;;(coding-system-for-read 'utf-8)
-        ;;sufficient;;(coding-system-for-write 'utf-8)
+  (let ((buffer-file-coding-system 'utf-8)
+        (coding-system-for-read 'utf-8)
+        (coding-system-for-write 'utf-8)
         (buffer-exists (buffer-live-p (get-buffer spacemacs-buffer-name)))
         (save-line nil))
     (when (or (not (eq spacemacs-buffer--last-width (window-width)))
