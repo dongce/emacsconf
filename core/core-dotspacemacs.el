@@ -411,7 +411,7 @@ Called with `C-u C-u' skips `dotspacemacs/user-config' _and_ preleminary tests."
       (let ((dotspacemacs-loading-progress-bar nil))
         (setq spacemacs-loading-string "")
         (save-buffer)
-        (let ((tests-ok (or (equal arg '(16)) (dotspacemacs/test-dotfile t))))
+        (let ((tests-ok (or (member arg '(16)) (dotspacemacs/test-dotfile t))))
           (if tests-ok
               (progn
                 (load-file buffer-file-name)
@@ -423,7 +423,7 @@ Called with `C-u C-u' skips `dotspacemacs/user-config' _and_ preleminary tests."
                       (dotspacemacs//read-editing-style-config
                        dotspacemacs-editing-style))
                 (configuration-layer/sync)
-                (if (member arg '((4) (16)))
+                (if (member arg '(4 16))
                     (message (concat "Done (`dotspacemacs/user-config' "
                                      "function has been skipped)."))
                   (dotspacemacs|call-func dotspacemacs/user-config
