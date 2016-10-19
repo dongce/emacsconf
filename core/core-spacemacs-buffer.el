@@ -414,10 +414,15 @@ The message is displayed only if `init-file-debug' is non nil."
   (when init-file-debug
     (message "(Spacemacs) %s" (apply 'format msg args))))
 
+(defvar spacemacs-buffer--warnings nil
+  "List of warnings during startup.")
+
 (defun spacemacs-buffer/warning (msg &rest args)
   "Display MSG as a warning message but in buffer `*Messages*'.
 The message is always displayed. "
-  (message "(Spacemacs) Warning: %s" (apply 'format msg args)))
+  (let ((msg (apply 'format msg args)))
+    (message "(Spacemacs) Warning: %s" msg)
+    (add-to-list 'spacemacs-buffer--warnings msg 'append)))
 
 (defun spacemacs-buffer/insert-page-break ()
   "Insert a page break line in spacemacs buffer."
@@ -674,6 +679,22 @@ border."
     (spacemacs-buffer//center-line)
     (insert "\n\n"))
 
+(defun spacemacs-buffer//insert-string-list (list-display-name list)
+  (when (car list)
+    (insert list-display-name)
+    (mapc (lambda (el)
+            (insert
+             "\n"
+             (with-temp-buffer
+               (insert el)
+               (fill-paragraph)
+               (goto-char (point-min))
+               (insert "    - ")
+               (while (= 0 (forward-line))
+                 (insert "      "))
+               (buffer-string))))
+          list)))
+
 (defun spacemacs-buffer//insert-file-list (list-display-name list)
   (when (car list)
     (insert list-display-name)
@@ -815,6 +836,12 @@ list. Return entire list if `END' is omitted."
                      (or (cdr-safe els)
                          spacemacs-buffer-startup-lists-length)))
                 (cond
+                 ((eq el 'warnings)
+                  (when (spacemacs-buffer//insert-string-list
+                         "Warnings:"
+                         spacemacs-buffer--warnings)
+                    (spacemacs//insert--shortcut "w" "Warnings:")
+                    (insert list-separator)))
                  ((eq el 'recents)
                   (recentf-mode)
                   (when (spacemacs-buffer//insert-file-list
@@ -854,7 +881,10 @@ list. Return entire list if `END' is omitted."
                          (spacemacs//subseq (projectile-relevant-known-projects)
                                             0 list-size))
                     (spacemacs//insert--shortcut "p" "Projects:")
-                    (insert list-separator)))))) dotspacemacs-startup-lists)))
+                    (insert list-separator))))))
+            (append
+             '(warnings)
+             dotspacemacs-startup-lists))))
 
 (defun spacemacs-buffer//get-buffer-width ()
   (save-excursion
