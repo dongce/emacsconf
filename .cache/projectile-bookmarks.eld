@@ -1,1 +1,1 @@
-("~/")
+("~/" "t:/usr/local/editor/emacsW32/spacemacs/")

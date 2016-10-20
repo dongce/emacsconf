@@ -1,9 +1,13 @@
 
 ;; ----- smex-history -----
 (
+ ibuffer
+ company-files
+ helm-company
+ exit-recursive-edit
+ init-loader-show-log
  replace-string
  edebug-defun
- ibuffer
  emacs-lisp-mode
  cd
  w3
@@ -29,16 +33,16 @@
  xdb
  bbdb
  calc
- deer
- diff
- dirs
- esup
 )
 
 ;; ----- smex-data -----
 (
  (emacs-lisp-mode . 1)
- (ibuffer . 1)
+ (ibuffer . 2)
  (edebug-defun . 1)
  (replace-string . 1)
+ (init-loader-show-log . 1)
+ (exit-recursive-edit . 1)
+ (helm-company . 1)
+ (company-files . 1)
 )

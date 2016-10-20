@@ -45,6 +45,8 @@
 
 (define-abbrev-table 'completion-list-mode-abbrev-table '())
 
+(define-abbrev-table 'debugger-mode-abbrev-table '())
+
 (define-abbrev-table 'diff-mode-abbrev-table '())
 
 (define-abbrev-table 'diredp-w32-drives-mode-abbrev-table '())

@@ -2,39 +2,83 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Thu Oct 20 18:52:16 2016
+;; Created Thu Oct 20 19:08:12 2016
 ;; Desktop file format version 208
 ;; Emacs version 25.1.50.1
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (22536 37840 942497 100000) (desktop . "208") "dongil@dongil-PC" nil nil ((((font-backend uniscribe gdi) (font . "-outline-Ubuntu Mono-normal-normal-normal-mono-17-*-*-*-c-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#b2b2b2") (background-color . "#292b2e") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (alpha) (menu-bar-lines . 0) (tool-bar-lines . 0) (height . 87) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (fullscreen . maxmized) (display-type . color) (background-mode . dark) (cursor-color . "DarkGoldenrod2") (environment) (eyebrowse-last-slot . 1) (eyebrowse-current-slot . 1) (eyebrowse-window-configs (1 (((min-height . 8) (min-width . 10) (min-height-ignore . 6) (min-width-ignore . 4) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 152) (min-pixel-width . 80) (min-pixel-height-ignore . 114) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 38) (min-pixel-width-safe . 16)) vc (pixel-width . 1050) (pixel-height . 1639) (total-width . 131) (total-height . 86) (normal-height . 1.0) (normal-width . 1.0) (combination-limit . t) (leaf (pixel-width . 1050) (pixel-height . 988) (total-width . 131) (total-height . 52) (normal-height . 0.6028065893837706) (normal-width . 1.0) (buffer ".spacemacs" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 2506) (start . 1))) (leaf (last . t) (pixel-width . 1050) (pixel-height . 651) (total-width . 131) (total-height . 34) (normal-height . 0.3971934106162294) (normal-width . 1.0) (buffer "*Help*" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 65) (start . 1)))) "")) (powerline-cache) (persp) (persp-buffer-predicate-old . spacemacs/useful-buffer-p) (persp-buffer-predicate-generated . "Unprintable entity") (frameset--id . "FA54-3047-7D00-7AC8") (frameset--mini t . t) (width . 129) (modeline . t) (minibuffer . t) (unsplittable) (left + -1058) (top + -47) (icon-name) (visibility . t) (display . "w32") (explicit-name) (tool-bar-position . top)) ((min-height . 8) (min-width . 10) (min-height-ignore . 6) (min-width-ignore . 4) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 152) (min-pixel-width . 80) (min-pixel-height-ignore . 114) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 38) (min-pixel-width-safe . 16)) vc (pixel-width . 1050) (pixel-height . 1639) (total-width . 131) (total-height . 86) (normal-height . 1.0) (normal-width . 1.0) (combination-limit . t) (leaf (pixel-width . 1050) (pixel-height . 988) (total-width . 131) (total-height . 52) (normal-height . 0.6028065893837706) (normal-width . 1.0) (buffer ".spacemacs" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 2506) (start . 1))) (leaf (last . t) (pixel-width . 1050) (pixel-height . 651) (total-width . 131) (total-height . 34) (normal-height . 0.3971934106162294) (normal-width . 1.0) (buffer "*Help*" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 65) (start . 1)))))])
+(setq desktop-saved-frameset [frameset 1 (22536 38796 595157 300000) (desktop . "208") "dongil@dongil-PC" nil nil ((((font-backend uniscribe gdi) (font . "-outline-Ubuntu Mono-normal-normal-normal-mono-17-*-*-*-c-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#b2b2b2") (background-color . "#292b2e") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (alpha) (menu-bar-lines . 0) (tool-bar-lines . 0) (height . 87) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (fullscreen . maxmized) (display-type . color) (background-mode . dark) (cursor-color . "DarkGoldenrod2") (environment) (eyebrowse-last-slot . 1) (eyebrowse-current-slot . 1) (eyebrowse-window-configs (1 (((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 76) (min-pixel-width . 80) (min-pixel-height-ignore . 57) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 19) (min-pixel-width-safe . 16)) leaf (pixel-width . 1050) (pixel-height . 1639) (total-width . 131) (total-height . 86) (normal-height . 1.0) (normal-width . 1.0) (buffer "*Ibuffer*" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 657) (start . 1))) "")) (powerline-cache) (persp) (persp-buffer-predicate-old . spacemacs/useful-buffer-p) (persp-buffer-predicate-generated . "Unprintable entity") (frameset--id . "FA54-3047-7D00-7AC8") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top) (visibility . t) (width . 129) (left + -1058) (top + -47)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 76) (min-pixel-width . 80) (min-pixel-height-ignore . 57) (min-pixel-width-ignore . 32) (min-pixel-height-safe . 19) (min-pixel-width-safe . 16)) leaf (pixel-width . 1050) (pixel-height . 1639) (total-width . 131) (total-height . 86) (normal-height . 1.0) (normal-width . 1.0) (buffer "*Ibuffer*" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 657) (start . 1))))])
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
 (setq search-ring nil)
-(setq regexp-search-ring nil)
-(setq register-alist (list (list 95 "Unprintable entity" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook `(lambda nil (set-marker ,mk ,4 (get-buffer ,"*scratch*")))) mk))))
-(setq file-name-history '("~/.spacemacs" "u:/xxx.el" "u:/abcd.txt"))
+(setq regexp-search-ring '("escape" "auto" "message"))
+(setq register-alist (list '(48 . "((company-dabbrev-code company-gtags company-etags company-keywords)\n    company-files company-dabbrev)") (list 95 "Unprintable entity" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook `(lambda nil (set-marker ,mk ,1 (get-buffer ,"*scratch*")))) mk))))
+(setq file-name-history '("t:/usr/local/editor/emacsW32/spacemacs/core/" "~/.spacemacs" "u:/xxx.el" "u:/abcd.txt"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
 (desktop-create-buffer 208
   "u:/spacemacs-home/.spacemacs"
   ".spacemacs"
   'emacs-lisp-mode
-  '(abbrev-mode eldoc-mode page-break-lines-mode global-auto-revert-mode undo-tree-mode override-global-mode which-key-mode counsel-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode persp-mode volatile-highlights-mode hl-todo-mode paredit-mode yas-minor-mode lentic-mode hs-minor-mode helm-mode projectile-mode evil-extra-operator-mode company-mode fic-mode rainbow-delimiters-mode highlight-parentheses-mode highlight-numbers-mode auto-highlight-symbol-mode bug-reference-prog-mode goto-address-prog-mode repl-toggle-mode elisp-slime-nav-mode auto-compile-mode ggtags-mode)
-  2506
-  '(2498 nil)
+  '(abbrev-mode eldoc-mode page-break-lines-mode global-auto-revert-mode undo-tree-mode override-global-mode which-key-mode counsel-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode persp-mode volatile-highlights-mode hl-todo-mode paredit-mode yas-minor-mode lentic-mode hs-minor-mode helm-mode projectile-mode evil-extra-operator-mode fic-mode rainbow-delimiters-mode highlight-parentheses-mode highlight-numbers-mode auto-highlight-symbol-mode bug-reference-prog-mode goto-address-prog-mode repl-toggle-mode elisp-slime-nav-mode auto-compile-mode company-mode ggtags-mode)
+  17628
+  '(17628 nil)
   nil
   nil
   '((show-trailing-whitespace . 1) (buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
 
 (desktop-create-buffer 208
+  "t:/usr/local/editor/emacsW32/spacemacs/core/core-auto-completion.el"
+  "core-auto-completion.el"
+  'emacs-lisp-mode
+  '(abbrev-mode eldoc-mode page-break-lines-mode global-auto-revert-mode undo-tree-mode override-global-mode which-key-mode counsel-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode persp-mode volatile-highlights-mode hl-todo-mode paredit-mode yas-minor-mode lentic-mode hs-minor-mode helm-mode projectile-mode evil-extra-operator-mode fic-mode rainbow-delimiters-mode highlight-parentheses-mode highlight-numbers-mode auto-highlight-symbol-mode bug-reference-prog-mode goto-address-prog-mode repl-toggle-mode elisp-slime-nav-mode auto-compile-mode company-mode ggtags-mode)
+  406
+  '(406 nil)
+  t
+  nil
+  '((show-trailing-whitespace . 1) (buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 208
+  nil
+  "core"
+  'dired-mode
+  '(abbrev-mode global-auto-revert-mode undo-tree-mode override-global-mode which-key-mode counsel-mode anzu-mode evil-escape-mode flx-ido-mode persp-mode volatile-highlights-mode yas-minor-mode lentic-mode helm-mode projectile-mode evil-extra-operator-mode repl-toggle-mode)
+  569
+  '(569 nil)
+  t
+  '("t:/usr/local/editor/emacsW32/spacemacs/core/")
+  '((overwrite-mode)))
+
+(desktop-create-buffer 208
+  "u:/spacemacs-home/xxx.el"
+  "xxx.el"
+  'emacs-lisp-mode
+  '(abbrev-mode eldoc-mode page-break-lines-mode global-auto-revert-mode undo-tree-mode override-global-mode which-key-mode counsel-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode persp-mode volatile-highlights-mode hl-todo-mode paredit-mode yas-minor-mode lentic-mode hs-minor-mode helm-mode projectile-mode evil-extra-operator-mode fic-mode rainbow-delimiters-mode highlight-parentheses-mode highlight-numbers-mode auto-highlight-symbol-mode bug-reference-prog-mode goto-address-prog-mode repl-toggle-mode elisp-slime-nav-mode auto-compile-mode company-mode ggtags-mode)
+  194
+  '(194 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (buffer-file-coding-system . prefer-utf-8-dos) (overwrite-mode)))
+
+(desktop-create-buffer 208
+  "u:/abcd.txt"
+  "abcd.txt"
+  'text-mode
+  '(auto-fill-mode abbrev-mode global-auto-revert-mode undo-tree-mode override-global-mode which-key-mode counsel-mode anzu-mode evil-escape-mode flx-ido-mode persp-mode volatile-highlights-mode hl-todo-mode yas-minor-mode lentic-mode helm-mode projectile-mode evil-extra-operator-mode repl-toggle-mode company-mode)
+  24
+  '(24 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . korean-cp949-dos) (overwrite-mode)))
+
+(desktop-create-buffer 208
   "u:/xxx.el"
   "xxx.el"
   'emacs-lisp-mode
-  '(abbrev-mode eldoc-mode page-break-lines-mode global-auto-revert-mode undo-tree-mode override-global-mode which-key-mode counsel-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode persp-mode volatile-highlights-mode hl-todo-mode paredit-mode yas-minor-mode lentic-mode hs-minor-mode helm-mode projectile-mode evil-extra-operator-mode company-mode fic-mode rainbow-delimiters-mode highlight-parentheses-mode highlight-numbers-mode auto-highlight-symbol-mode bug-reference-prog-mode goto-address-prog-mode repl-toggle-mode elisp-slime-nav-mode auto-compile-mode ggtags-mode)
-  250
-  '(250 nil)
+  '(abbrev-mode eldoc-mode page-break-lines-mode global-auto-revert-mode undo-tree-mode override-global-mode which-key-mode counsel-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode persp-mode volatile-highlights-mode hl-todo-mode paredit-mode yas-minor-mode lentic-mode hs-minor-mode helm-mode projectile-mode evil-extra-operator-mode fic-mode rainbow-delimiters-mode highlight-parentheses-mode highlight-numbers-mode auto-highlight-symbol-mode bug-reference-prog-mode goto-address-prog-mode repl-toggle-mode elisp-slime-nav-mode auto-compile-mode company-mode ggtags-mode)
+  233
+  '(233 nil)
   nil
   nil
   '((show-trailing-whitespace . 1) (buffer-file-coding-system . prefer-utf-8-dos) (overwrite-mode)))
@@ -43,32 +87,10 @@
   "t:/usr/local/editor/emacsW32/site-lisp/elpa/company-20160829.1206/company-abbrev.el"
   "company-abbrev.el"
   'emacs-lisp-mode
-  '(abbrev-mode eldoc-mode page-break-lines-mode global-auto-revert-mode undo-tree-mode override-global-mode which-key-mode counsel-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode persp-mode volatile-highlights-mode hl-todo-mode paredit-mode yas-minor-mode lentic-mode hs-minor-mode helm-mode projectile-mode evil-extra-operator-mode company-mode fic-mode rainbow-delimiters-mode highlight-parentheses-mode highlight-numbers-mode auto-highlight-symbol-mode bug-reference-prog-mode goto-address-prog-mode repl-toggle-mode elisp-slime-nav-mode auto-compile-mode ggtags-mode)
+  '(abbrev-mode eldoc-mode page-break-lines-mode global-auto-revert-mode undo-tree-mode override-global-mode which-key-mode counsel-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode persp-mode volatile-highlights-mode hl-todo-mode paredit-mode yas-minor-mode lentic-mode hs-minor-mode helm-mode projectile-mode evil-extra-operator-mode fic-mode rainbow-delimiters-mode highlight-parentheses-mode highlight-numbers-mode auto-highlight-symbol-mode bug-reference-prog-mode goto-address-prog-mode repl-toggle-mode elisp-slime-nav-mode auto-compile-mode company-mode ggtags-mode)
   1042
   '(1042 nil)
   nil
   nil
   '((show-trailing-whitespace . 1) (buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode)))
-
-(desktop-create-buffer 208
-  "u:/abcd.txt"
-  "abcd.txt"
-  'text-mode
-  '(auto-fill-mode abbrev-mode global-auto-revert-mode undo-tree-mode override-global-mode which-key-mode counsel-mode anzu-mode evil-escape-mode flx-ido-mode persp-mode volatile-highlights-mode hl-todo-mode yas-minor-mode lentic-mode helm-mode projectile-mode evil-extra-operator-mode company-mode repl-toggle-mode)
-  24
-  '(24 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . korean-cp949-dos) (overwrite-mode)))
-
-(desktop-create-buffer 208
-  "t:/usr/local/editor/emacsW32/cmdutils/.cpp"
-  ".cpp"
-  'c++-mode
-  '(abbrev-mode global-auto-revert-mode undo-tree-mode override-global-mode which-key-mode counsel-mode anzu-mode evil-escape-mode smartparens-mode flx-ido-mode persp-mode volatile-highlights-mode hl-todo-mode yas-minor-mode lentic-mode hs-minor-mode helm-mode projectile-mode evil-extra-operator-mode key-combo-mode modern-c++-font-lock-mode fic-mode rainbow-delimiters-mode highlight-parentheses-mode highlight-numbers-mode auto-highlight-symbol-mode bug-reference-prog-mode goto-address-prog-mode repl-toggle-mode fic-ext-mode)
-  1
-  '(1 nil)
-  t
-  nil
-  '((show-trailing-whitespace . 1) (overwrite-mode)))
 
