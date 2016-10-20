@@ -1,0 +1,44 @@
+
+;; ----- smex-history -----
+(
+ replace-string
+ edebug-defun
+ ibuffer
+ emacs-lisp-mode
+ cd
+ w3
+ 5x5
+ ack
+ arp
+ dbx
+ dig
+ erc
+ ert
+ eww
+ ftp
+ gdb
+ irc
+ jdb
+ man
+ mpc
+ pdb
+ pwd
+ rsh
+ sdb
+ try
+ xdb
+ bbdb
+ calc
+ deer
+ diff
+ dirs
+ esup
+)
+
+;; ----- smex-data -----
+(
+ (emacs-lisp-mode . 1)
+ (ibuffer . 1)
+ (edebug-defun . 1)
+ (replace-string . 1)
+)

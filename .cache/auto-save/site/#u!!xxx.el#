@@ -1,0 +1,14 @@
+(def)
+
+(require 'sqlite)
+
+
+    (let ((descriptor (sqlite-init firefox-places)))
+      (setq res (sqlite-query descriptor "select title , id  from moz_bookmarks  where parent=4 ;"))
+        (sqlite-bye descriptor)
+        res
+     )
+
+company-backends
+8h
+(def-auto-persp)

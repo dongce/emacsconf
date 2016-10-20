@@ -1,6 +1,10 @@
 ;;; -*- coding: utf-8 -*-
-(("u:/spacemacs-home/.elfeed/index" . 1352240)
- ("t:/usr/local/editor/emacsW32/spacemacs/.cache/layouts/persp-auto-save" . 1336)
+(("u:/abcd.txt" . 24)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/company-20160829.1206/company-abbrev.el" . 1042)
+ ("u:/xxx.el" . 250)
+ ("u:/spacemacs-home/.spacemacs" . 2506)
+ ("u:/spacemacs-home/.elfeed/index" . 1356381)
+ ("t:/usr/local/editor/emacsW32/spacemacs/.cache/layouts/persp-auto-save" . 2688)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/34_init-abbrev.org" . 3423)
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/README.org" . 2838)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/39_init-expand.org" . 2401)
@@ -13,9 +17,7 @@
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/company-20160829.1206/company-capf.el" . 7099)
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/funcs.el" . 327)
  ("t:/usr/local/editor/emacsW32/spacemacs/core/core-auto-completion.el" . 806)
- ("u:/spacemacs-home/.spacemacs" . 1169)
  ("u:/spacemacs-home/tttt.el" . 17)
- ("t:/usr/local/editor/emacsW32/spacemacs/.cache/recentf" . 40723)
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/local/snippets/"
   (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/local/snippets/.."))
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/local/"
@@ -24,11 +26,9 @@
   (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/funcs.el"))
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/company-20160829.1206/"
   (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/company-20160829.1206/company-abbrev.el"))
- ("u:/xxx.el" . 271)
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/config.el" . 1545)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/auto-complete-20160827.649/auto-complete.el" . 13979)
  ("t:/usr/local/editor/emacsW32/emacs25264/share/emacs/25.1.50/lisp/dabbrev.el.gz" . 1315)
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/company-20160829.1206/company-abbrev.el" . 1592)
  ("u:/xxx.cpp" . 28)
  ("u:/xxx.txt" . 13)
  ("c:/Users/dongil/Downloads/script_2_196(1).sh" . 147)
@@ -558,7 +558,4 @@
   (dired-filename . "t:/FFX/zdeploy"))
  ("f:/MYSINGLE20130416/sent/cur/1476325016.0f1a724a64e36a60.dongil-pc;2,S" . 346)
  ("f:/MYSINGLE20130416/sent/cur/1476324228.57b6dc0440a8d35f.dongil-pc;2,S" . 441)
- ("u:/abcd.cpp" . 1031)
- ("t:/usr/local/editor/emacsW32/spacemacs/snippets/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/snippets/.."))
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/+web-services/elfeed/packages.el" . 627))
+ ("u:/abcd.cpp" . 1031))
