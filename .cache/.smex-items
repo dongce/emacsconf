@@ -2,11 +2,20 @@
 ;; ----- smex-history -----
 (
  ibuffer
+ narrow-to-region
+ occur
+ replace-string
+ flush-lines
+ count-words-region
+ flush-empty-lines
+ highlight-regexp
+ highlight-symbol
+ widen
+ grep
  company-files
  helm-company
  exit-recursive-edit
  init-loader-show-log
- replace-string
  edebug-defun
  emacs-lisp-mode
  cd
@@ -24,25 +33,26 @@
  irc
  jdb
  man
- mpc
- pdb
- pwd
- rsh
- sdb
- try
- xdb
- bbdb
- calc
 )
 
 ;; ----- smex-data -----
 (
  (emacs-lisp-mode . 1)
- (ibuffer . 2)
+ (ibuffer . 3)
  (edebug-defun . 1)
- (replace-string . 1)
+ (replace-string . 5)
  (init-loader-show-log . 1)
  (exit-recursive-edit . 1)
  (helm-company . 1)
  (company-files . 1)
+ (occur . 16)
+ (count-words-region . 4)
+ (grep . 5)
+ (org-evil-mode . 3)
+ (flush-empty-lines . 3)
+ (widen . 1)
+ (highlight-symbol . 1)
+ (highlight-regexp . 1)
+ (flush-lines . 3)
+ (narrow-to-region . 1)
 )

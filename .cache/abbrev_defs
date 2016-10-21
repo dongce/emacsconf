@@ -7,9 +7,13 @@
 
 (define-abbrev-table 'ada-mode-abbrev-table '())
 
+(define-abbrev-table 'anaconda-mode-view-mode-abbrev-table '())
+
 (define-abbrev-table 'awk-mode-abbrev-table
   '(
    ))
+
+(define-abbrev-table 'bat-mode-abbrev-table '())
 
 (define-abbrev-table 'bc-mode-abbrev-table '())
 
@@ -26,6 +30,10 @@
 (define-abbrev-table 'bookmark-edit-annotation-mode-abbrev-table '())
 
 (define-abbrev-table 'bookmark-show-annotation-mode-abbrev-table '())
+
+(define-abbrev-table 'browse-kill-ring-edit-mode-abbrev-table '())
+
+(define-abbrev-table 'browse-kill-ring-mode-abbrev-table '())
 
 (define-abbrev-table 'c++-mode-abbrev-table
   '(
@@ -65,11 +73,17 @@
 
 (define-abbrev-table 'emacs-lisp-mode-abbrev-table '())
 
+(define-abbrev-table 'emoji-cheat-sheet-plus-buffer-mode-abbrev-table '())
+
 (define-abbrev-table 'epa-info-mode-abbrev-table '())
 
 (define-abbrev-table 'epa-key-list-mode-abbrev-table '())
 
 (define-abbrev-table 'epa-key-mode-abbrev-table '())
+
+(define-abbrev-table 'ert-results-mode-abbrev-table '())
+
+(define-abbrev-table 'ert-simple-view-mode-abbrev-table '())
 
 (define-abbrev-table 'eshell-mode-abbrev-table '())
 
@@ -108,6 +122,8 @@
 (define-abbrev-table 'ggtags-view-search-history-mode-abbrev-table '())
 
 (define-abbrev-table 'git-gutter+-commit-mode-abbrev-table '())
+
+(define-abbrev-table 'git-rebase-mode-abbrev-table '())
 
 (define-abbrev-table 'global-abbrev-table
   '(
@@ -531,7 +547,7 @@
     ("8si" "∑" nil 0)
     ("8signed" "☡" nil 0)
     ("8sim" "시뮬레이터" nil 0)
-    ("8skull" "💀" nil 0)
+    ("8skull" "💀" nil 1)
     ("8sl" "Second Life" nil 0)
     ("8sliding" "⛐" nil 0)
     ("8smly" "☺" nil 0)
@@ -672,6 +688,36 @@
 
 (define-abbrev-table 'log4e-mode-abbrev-table '())
 
+(define-abbrev-table 'magit-cherry-mode-abbrev-table '())
+
+(define-abbrev-table 'magit-diff-mode-abbrev-table '())
+
+(define-abbrev-table 'magit-log-mode-abbrev-table '())
+
+(define-abbrev-table 'magit-log-select-mode-abbrev-table '())
+
+(define-abbrev-table 'magit-merge-preview-mode-abbrev-table '())
+
+(define-abbrev-table 'magit-mode-abbrev-table '())
+
+(define-abbrev-table 'magit-popup-mode-abbrev-table '())
+
+(define-abbrev-table 'magit-process-mode-abbrev-table '())
+
+(define-abbrev-table 'magit-reflog-mode-abbrev-table '())
+
+(define-abbrev-table 'magit-refs-mode-abbrev-table '())
+
+(define-abbrev-table 'magit-repolist-mode-abbrev-table '())
+
+(define-abbrev-table 'magit-revision-mode-abbrev-table '())
+
+(define-abbrev-table 'magit-stash-mode-abbrev-table '())
+
+(define-abbrev-table 'magit-stashes-mode-abbrev-table '())
+
+(define-abbrev-table 'magit-status-mode-abbrev-table '())
+
 (define-abbrev-table 'message-mode-abbrev-table '())
 
 (define-abbrev-table 'messages-buffer-mode-abbrev-table '())
@@ -726,6 +772,8 @@
 
 (define-abbrev-table 'sgml-mode-abbrev-table '())
 
+(define-abbrev-table 'sh-mode-abbrev-table '())
+
 (define-abbrev-table 'shell-mode-abbrev-table '())
 
 (define-abbrev-table 'skewer-clients-mode-abbrev-table '())
@@ -755,6 +803,8 @@
 (define-abbrev-table 'text-mode-abbrev-table '())
 
 (define-abbrev-table 'url-cookie-mode-abbrev-table '())
+
+(define-abbrev-table 'vc-bzr-log-view-mode-abbrev-table '())
 
 (define-abbrev-table 'vc-dir-mode-abbrev-table '())
 

@@ -1,145 +1,220 @@
 ;;; -*- coding: utf-8 -*-
-(("t:/usr/local/editor/emacsW32/site-lisp/elpa/company-20160829.1206/company-abbrev.el" . 1042)
- ("u:/xxx.el" . 233)
- ("u:/abcd.txt" . 24)
- ("u:/spacemacs-home/xxx.el" . 194)
- ("t:/usr/local/editor/emacsW32/spacemacs/core/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/core/core-auto-completion.el"))
+(("u:/spacemacs-home/.elfeed/index" . 1368953)
+ ("t:/usr/local/editor/emacsW32/spacemacs/.cache/layouts/persp-auto-save" . 1336)
+ ("t:/gitdir/DLP_LINK11/src/common/utility.h.~mirror_pkgb-fullfiles~" . 10770)
+ ("t:/gitdir/DLP_LINK11/src/common/utility.h" . 10459)
+ ("u:/sigconvcs.org" . 65111)
+ ("u:/orgdir/notes.org" . 2352)
+ ("t:/gitdir/DLP_LINK11/src/dts_controller/dts_controller.cpp" . 10358)
+ ("t:/gitdir/DLP_LINK11/src/db_access_main/periodic_controller.cpp" . 17276)
+ ("t:/gitdir/DLP_LINK11/src/network_tx/network_tx.cpp" . 3735)
+ ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m5.cpp" . 40100)
+ ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m12_0.cpp" . 11024)
+ ("t:/gitdir/DLP_LINK11/src/common/dlptime.cpp" . 876)
+ ("t:/gitdir/DLP_LINK11/src/common/gettimeofday.cpp" . 3116)
+ ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m9d.cpp" . 7131)
+ ("t:/gitdir/DLP_LINK11/src/status_checker/status_checker.cpp" . 23293)
+ ("t:/gitdir/DLP_LINK11/src/db_access_main/network_track_data_base_hash.cpp" . 56957)
+ ("t:/gitdir/DLP_LINK11/src/db_access_main/track_controller.cpp" . 15656)
+ ("t:/gitdir/DLP_LINK11/src/network_rx/network_rx.cpp" . 23456)
+ ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m10.cpp" . 17036)
+ ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m11b.cpp" . 7719)
+ ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m11m.cpp" . 41435)
+ ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m1_rp0.cpp" . 9310)
+ ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m4d.cpp" . 43486)
+ ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m9a.cpp" . 148298)
+ ("t:/gitdir/DLP_LINK11/src/network_tx/build_message_track.cpp" . 185856)
+ ("t:/gitdir/DLP_LINK11/src/network_tx/build_message_difference_report.cpp" . 32878)
+ ("t:/gitdir/DLP_LINK11/src/network_tx/build_message_opnote.cpp" . 10431)
+ ("t:/gitdir/DLP_LINK11/src/network_tx/build_message_tag.cpp" . 2660)
+ ("t:/gitdir/DLP_LINK11/src/dts_controller/intf_dts.cpp" . 22502)
+ ("t:/gitdir/DLP_LINK11/src/network_tx/build_message_weapon_engagement.cpp" . 4781)
+ ("t:/gitdir/DLP_LINK11/src/network_tx/build_message_aircraft_control.cpp" . 8892)
+ ("t:/gitdir/DLP_LINK11/src/remote_control/remote_control.cpp" . 6713)
  ("t:/usr/local/editor/emacsW32/spacemacs/core/core-auto-completion.el" . 406)
- ("u:/spacemacs-home/.spacemacs" . 17628)
- ("u:/spacemacs-home/.elfeed/index" . 1360572)
- ("t:/usr/local/editor/emacsW32/spacemacs/.cache/layouts/persp-auto-save" . 1925)
+ ("u:/spacemacs-home/xxx.el" . 181)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/mwim-20161004.647/mwim.el" . 15913)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/org-evil-20161019.802/org-evil-core.el" . 2460)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/org-evil-20161019.802/org-evil-motion.el" . 6907)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/company-20160829.1206/company-abbrev.el" . 273)
+ ("u:/xxx.el" . 233)
+ ("t:/usr/local/editor/emacsW32/spacemacs/core/"
+	(dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/core/core-auto-completion.el"))
+ ("z:/FFX-II/FFX-II 임시규격 자료/"
+	(dired-filename . "z:/FFX-II/FFX-II 임시규격 자료/.."))
+ ("z:/FFX-II/"
+	(dired-filename . "z:/FFX-II/FFX-II 신뢰성 시험 진행현황 취합(20160901이후 삭제 예정)"))
+ ("z:/FFX-II/FFX-II 신뢰성 시험 진행현황 취합(20160901이후 삭제 예정)/"
+	(dired-filename . "z:/FFX-II/FFX-II 신뢰성 시험 진행현황 취합(20160901이후 삭제 예정)/False Alarm Report"))
+ ("z:/FFX-II/FFX-II 신뢰성 시험 진행현황 취합(20160901이후 삭제 예정)/False Alarm Report/"
+	(dired-filename . "z:/FFX-II/FFX-II 신뢰성 시험 진행현황 취합(20160901이후 삭제 예정)/False Alarm Report/CodeSonar"))
+ ("z:/"
+	(dired-filename . "z:/MLS-II"))
+ ("z:/MLS-II/1. 규격화/MLS-II 규격화 - 취합중/"
+	(dired-filename . "z:/MLS-II/1. 규격화/MLS-II 규격화 - 취합중/.."))
+ ("z:/MLS-II/"
+	(dired-filename . "z:/MLS-II/1. 규격화"))
+ ("z:/MLS-II/1. 규격화/"
+	(dired-filename . "z:/MLS-II/1. 규격화/신뢰성"))
+ ("z:/MLS-II/1. 규격화/신뢰성/"
+	(dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서"))
+ ("z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/02. 정적시험-실행시간 오류(CodeSonar)/"
+	(dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/02. 정적시험-실행시간 오류(CodeSonar)/.."))
+ ("z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/"
+	(dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서"))
+ ("z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/"
+	(dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)"))
+ ("z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/"
+	(dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/02. Minor"))
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/mwim-20161004.647/"
+	(dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/mwim-20161004.647/mwim.el"))
+ ("t:/usr/local/editor/emacsW32/site-lisp/init/"
+	(dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/init/05_init-dired.org"))
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/org-evil-20161019.802/"
+	(dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/org-evil-20161019.802/org-evil-motion.el"))
+ ("t:/gitdir/DLP_LINK11/proj/"
+	(dired-filename . "t:/gitdir/DLP_LINK11/proj/.."))
+ ("t:/gitdir/DLP_LINK11/"
+	(dired-filename . "t:/gitdir/DLP_LINK11/src"))
+ ("z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/02. Minor/"
+	(dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/02. Minor/[MLS-II][CFCS][SW 신뢰성 시험] CodeSonar 거짓경보_CABINET_DISP_DISP_Unreachable Data Flow_1.docx"))
+ ("z:/FFX-II/FFX-II 신뢰성 시험 진행현황 취합(20160901이후 삭제 예정)/False Alarm Report/CodeSonar/Minor/"
+	(dired-filename . "z:/FFX-II/FFX-II 신뢰성 시험 진행현황 취합(20160901이후 삭제 예정)/False Alarm Report/CodeSonar/Minor/★[FFX-II_PKX-B][CFCS][SW 신뢰성 시험] CodeSonar 거짓경보_IPNTAC_TM__TM_Useless Assignement_CDataManager2.docx"))
+ ("z:/FFX-II/FFX-II 신뢰성 시험 진행현황 취합(20160901이후 삭제 예정)/False Alarm Report/CodeSonar/"
+	(dired-filename . "z:/FFX-II/FFX-II 신뢰성 시험 진행현황 취합(20160901이후 삭제 예정)/False Alarm Report/CodeSonar/Major"))
+ ("z:/FFX-II/FFX-II 신뢰성 시험 진행현황 취합(20160901이후 삭제 예정)/False Alarm Report/CodeSonar/Major/"
+	(dired-filename . "z:/FFX-II/FFX-II 신뢰성 시험 진행현황 취합(20160901이후 삭제 예정)/False Alarm Report/CodeSonar/Major/★[FFX-II][CFCS][SW 신뢰성 시험] CodeSonar 거짓경보_DLPISDL_DP_ISDL_Format_String_박현철_2.docx"))
+ ("t:/usr/local/"
+	(dired-filename . "t:/usr/local/keytweak"))
+ ("t:/usr/local/keytweak/" . 465)
+ ("u:/abcd.txt" . 24)
+ ("t:/usr/local/editor/emacsW32/spacemacs/.cache/recentf" . 3753)
+ ("t:/gitdir/DLP_LINK11/src/common/utility.h.~kss3-fullfiles~" . 1366)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/34_init-abbrev.org" . 3423)
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/README.org" . 2838)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/39_init-expand.org" . 2401)
  ("t:/usr/local/editor/emacsW32/spacemacs/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/."))
- ("t:/usr/local/editor/emacsW32/site-lisp/init/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/init/06_init-mode.el"))
+	(dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/."))
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/packages.el" . 10409)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/company-20160829.1206/company.el" . 27150)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/company-20160829.1206/company-capf.el" . 7099)
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/funcs.el" . 327)
  ("u:/spacemacs-home/tttt.el" . 17)
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/local/snippets/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/local/snippets/.."))
+	(dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/local/snippets/.."))
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/local/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/local/.."))
+	(dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/local/.."))
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/funcs.el"))
+	(dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/funcs.el"))
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/company-20160829.1206/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/company-20160829.1206/company-abbrev.el"))
+	(dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/company-20160829.1206/company-abbrev.el"))
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/config.el" . 1545)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/auto-complete-20160827.649/auto-complete.el" . 13979)
  ("t:/usr/local/editor/emacsW32/emacs25264/share/emacs/25.1.50/lisp/dabbrev.el.gz" . 1315)
  ("u:/xxx.cpp" . 28)
  ("u:/xxx.txt" . 13)
  ("c:/Users/dongil/Downloads/script_2_196(1).sh" . 147)
- ("t:/usr/local/"
-  (dired-filename . "t:/usr/local/ffxsvn"))
  ("t:/usr/local/ffxsvn/bin/"
-  (dired-filename . "t:/usr/local/ffxsvn/bin/.."))
+	(dired-filename . "t:/usr/local/ffxsvn/bin/.."))
  ("t:/usr/local/ffxsvn/"
-  (dired-filename . "t:/usr/local/ffxsvn/ffxsvn.py~"))
+	(dired-filename . "t:/usr/local/ffxsvn/ffxsvn.py~"))
  ("/pscp:scpuser@k3:/tmp/" . 854)
  ("z:/FFX-I/FFX-I 규격자료/V06/SVD/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V06/SVD/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V06/SVD/.."))
  ("z:/FFX-I/FFX-I 규격자료/V06/품질개선완료보고서/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V06/품질개선완료보고서/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V06/품질개선완료보고서/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/ICU/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/ICU/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/ICU/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/IPNSUP/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/IPNSUP/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/IPNSUP/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/IPNTAC/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/IPNTAC/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/IPNTAC/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/IPNTRN/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/IPNTRN/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/IPNTRN/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/MFC/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/MFC/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/MFC/.."))
  ("z:/FFX-I/FFX-I 규격자료/V06/SW 신뢰성시험 결과보고서/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V06/SW 신뢰성시험 결과보고서/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V06/SW 신뢰성시험 결과보고서/.."))
  ("z:/FFX-I/FFX-I 규격자료/V06/STR/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V06/STR/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V06/STR/.."))
  ("z:/FFX-I/FFX-I 규격자료/V05/STR/후/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/STR/후/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/STR/후/.."))
  ("z:/FFX-I/FFX-I 규격자료/V05/STR/전/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/STR/전/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/STR/전/.."))
  ("z:/FFX-I/FFX-I 규격자료/V05/STR/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/STR/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/STR/.."))
  ("u:/orgdir/"
-  (dired-filename . "u:/orgdir/.kss3srs.org.~undo-tree~"))
+	(dired-filename . "u:/orgdir/.kss3srs.org.~undo-tree~"))
  ("z:/FFX-I/FFX-I 규격자료/V05/STD/후/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/STD/후/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/STD/후/.."))
  ("z:/FFX-I/FFX-I 규격자료/V05/STD/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/STD/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/STD/.."))
  ("z:/FFX-I/FFX-I 규격자료/V06/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V06/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V06/.."))
  ("z:/FFX-I/FFX-I 규격자료/V05/SPS/후/" . 945)
- ("z:/"
-  (dired-filename . "z:/FFX-I"))
  ("z:/FFX-I/KTSLM 추가연동 건/기술문서/SVD/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/기술문서/SVD/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/기술문서/SVD/.."))
  ("z:/FFX-I/FFX-I 규격자료/V05/SVD/후/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/SVD/후/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/SVD/후/.."))
  ("z:/FFX-I/FFX-I 규격자료/V05/SVD/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/SVD/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/SVD/.."))
  ("z:/FFX-I/FFX-I 규격자료/V04/기술문서/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V04/기술문서/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V04/기술문서/.."))
  ("z:/FFX-I/FFX-I 규격자료/V04/세부항목내역서/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V04/세부항목내역서/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V04/세부항목내역서/.."))
  ("z:/FFX-I/FFX-I 규격자료/V04/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V04/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V04/.."))
  ("z:/FFX-I/FFX-I 규격자료/V05/SW 신뢰성시험 결과보고서/codesonar/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/SW 신뢰성시험 결과보고서/codesonar/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/SW 신뢰성시험 결과보고서/codesonar/.."))
  ("z:/FFX-I/FFX-I 규격자료/V05/SW 신뢰성시험 결과보고서/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/SW 신뢰성시험 결과보고서/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/SW 신뢰성시험 결과보고서/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/(참고)품질개선완료보고서 및 세부항목내역서 등/세부항목내역서 샘플/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/(참고)품질개선완료보고서 및 세부항목내역서 등/세부항목내역서 샘플/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/(참고)품질개선완료보고서 및 세부항목내역서 등/세부항목내역서 샘플/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/(참고)품질개선완료보고서 및 세부항목내역서 등/신뢰성시험결과 샘플/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/(참고)품질개선완료보고서 및 세부항목내역서 등/신뢰성시험결과 샘플/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/(참고)품질개선완료보고서 및 세부항목내역서 등/신뢰성시험결과 샘플/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/(참고)품질개선완료보고서 및 세부항목내역서 등/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/(참고)품질개선완료보고서 및 세부항목내역서 등/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/(참고)품질개선완료보고서 및 세부항목내역서 등/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/_품질개선완료보고서/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/_품질개선완료보고서/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/_품질개선완료보고서/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/DLP_L11/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/DLP_L11/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/DLP_L11/.."))
  ("z:/FFX-I/FFX-I 규격자료/V05/품질개선완료보고서/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/품질개선완료보고서/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/품질개선완료보고서/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/DLP_ISDL/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/DLP_ISDL/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/DLP_ISDL/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/SW 신뢰성 시험결과/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/_세부항목내역서/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/_세부항목내역서/~$SW세부항목내역서_이동형수정중.xlsx"))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/_세부항목내역서/~$SW세부항목내역서_이동형수정중.xlsx"))
  ("z:/FFX-I/FFX-I 규격자료/V05/세부항목내역서/개발자별/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/세부항목내역서/개발자별/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/세부항목내역서/개발자별/.."))
  ("z:/FFX-I/FFX-I 규격자료/V05/세부항목내역서/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/세부항목내역서/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/세부항목내역서/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/기술문서/SDD/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/기술문서/SDD/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/기술문서/SDD/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/기술문서/SPS/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/기술문서/SPS/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/기술문서/SPS/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/기술문서/STD/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/기술문서/STD/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/기술문서/STD/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/기술문서/기준문서/SPS/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/기술문서/기준문서/SPS/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/기술문서/기준문서/SPS/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/기술문서/기준문서/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/기술문서/기준문서/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/기술문서/기준문서/.."))
  ("z:/FFX-I/FFX-I 규격자료/V05/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/SPS"))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/SPS"))
  ("z:/FFX-I/FFX-I 규격자료/V05/SPS/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/SPS/전"))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/SPS/전"))
  ("z:/FFX-I/FFX-I 규격자료/V05/SPS/전/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/SPS/전/SW91034178SPSRB.docx"))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/V05/SPS/전/SW91034178SPSRB.docx"))
  ("z:/FFX-I/FFX-I 규격자료/"
-  (dired-filename . "z:/FFX-I/FFX-I 규격자료/.."))
+	(dired-filename . "z:/FFX-I/FFX-I 규격자료/.."))
  ("z:/FFX-I/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건"))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건"))
  ("z:/FFX-I/KTSLM 추가연동 건/기술문서/" . 496)
  ("z:/FFX-I/KTSLM 추가연동 건/소스코드/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/소스코드/.."))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/소스코드/.."))
  ("z:/FFX-I/KTSLM 추가연동 건/"
-  (dired-filename . "z:/FFX-I/KTSLM 추가연동 건/기술문서"))
+	(dired-filename . "z:/FFX-I/KTSLM 추가연동 건/기술문서"))
  ("z:/FFX-I/KTSLM 추가연동 건/기술문서/STR/" . 324)
  ("t:/usr/local/ffxsvn/ffxsvn.py" . 144138)
  ("u:/orgdir/notes.org_archive" . 798238)
@@ -148,7 +223,6 @@
  ("u:/orgdir/atx.org" . 11202)
  ("u:/orgdir/script.org" . 38001)
  ("u:/orgdir/kss3.org" . 55567)
- ("u:/orgdir/notes.org" . 7873)
  ("f:/MYSINGLE20130416/sent/cur/1476949711.fb31fed6002d6b86.dongil-pc;2,S" . 323)
  ("t:/gitdir/DLP_LINK11/src/network_tx/build_message_ew_coord.cpp" . 27592)
  ("f:/MYSINGLE20130416/sent/cur/1476945605.0ed57603f10ffad8.dongil-pc;2,S" . 390)
@@ -163,83 +237,55 @@
  ("c:/Users/dongil/Downloads/atxlinbuildserver(1)/ATX/IISS/startup_tmuxpane.sh" . 834)
  ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m6a.cpp" . 7426)
  ("t:/gitdir/DLP_LINK11/src/network_rx/simulated_track.cpp" . 4736)
- ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m9d.cpp" . 8486)
  ("z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/01. 정적시험-코딩룰(QAC++)/"
-  (dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/01. 정적시험-코딩룰(QAC++)/.."))
- ("z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/"
-  (dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)"))
- ("z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/"
-  (dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/02. Minor"))
+	(dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/01. 정적시험-코딩룰(QAC++)/.."))
  ("z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/01. 정적시험-코딩룰(QAC++)/02. Minor/"
-  (dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/01. 정적시험-코딩룰(QAC++)/02. Minor/[MLS-II][CFCS][SW 신뢰성 시험] QAC++ 거짓경보_MFC_MC_MC_3003_2.docx"))
- ("z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/"
-  (dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/02. 정적시험-실행시간 오류(CodeSonar)"))
- ("z:/MLS-II/1. 규격화/"
-  (dired-filename . "z:/MLS-II/1. 규격화/MLS-II 규격화 - 취합중"))
- ("z:/MLS-II/1. 규격화/MLS-II 규격화 - 취합중/"
-  (dired-filename . "z:/MLS-II/1. 규격화/MLS-II 규격화 - 취합중/04. SDD (72종) - unti 0905   75-72  - 취합완료"))
+	(dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/01. 정적시험-코딩룰(QAC++)/02. Minor/[MLS-II][CFCS][SW 신뢰성 시험] QAC++ 거짓경보_MFC_MC_MC_3003_2.docx"))
  ("z:/MLS-II/1. 규격화/MLS-II 규격화 - 취합중/04. SDD (72종) - unti 0905   75-72  - 취합완료/" . 7464)
- ("t:/gitdir/DLP_LINK11/" . 617)
  ("z:/소프트웨어신뢰성시험/"
-  (dired-filename . "z:/소프트웨어신뢰성시험/신뢰성시험도구"))
+	(dired-filename . "z:/소프트웨어신뢰성시험/신뢰성시험도구"))
  ("z:/소프트웨어신뢰성시험/신뢰성시험도구/"
-  (dired-filename . "z:/소프트웨어신뢰성시험/신뢰성시험도구/false alarm 업체 검토자료"))
+	(dired-filename . "z:/소프트웨어신뢰성시험/신뢰성시험도구/false alarm 업체 검토자료"))
  ("z:/소프트웨어신뢰성시험/신뢰성시험도구/false alarm 업체 검토자료/"
-  (dired-filename . "z:/소프트웨어신뢰성시험/신뢰성시험도구/false alarm 업체 검토자료/."))
+	(dired-filename . "z:/소프트웨어신뢰성시험/신뢰성시험도구/false alarm 업체 검토자료/."))
  ("z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/01. Major/"
-  (dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/01. Major/[MLS-II][CFCS][SW 신뢰성 시험] CodeSonar 거짓경보_ICUIFF_IP_IFF_Buffer Overrun_송정훈_1.docx"))
- ("z:/FFX-II/FFX-II 신뢰성 시험 진행현황 취합(20160901이후 삭제 예정)/False Alarm Report/CodeSonar/"
-  (dired-filename . "z:/FFX-II/FFX-II 신뢰성 시험 진행현황 취합(20160901이후 삭제 예정)/False Alarm Report/CodeSonar/Major"))
- ("z:/FFX-II/FFX-II 신뢰성 시험 진행현황 취합(20160901이후 삭제 예정)/False Alarm Report/CodeSonar/Major/"
-  (dired-filename . "z:/FFX-II/FFX-II 신뢰성 시험 진행현황 취합(20160901이후 삭제 예정)/False Alarm Report/CodeSonar/Major/★[FFX-II][CFCS][SW 신뢰성 시험] CodeSonar 거짓경보_ICUEW_IP_EW_IP_EW_Format String_백치선_1.docx"))
- ("z:/FFX-II/FFX-II 신뢰성 시험 진행현황 취합(20160901이후 삭제 예정)/False Alarm Report/CodeSonar/Minor/"
-  (dired-filename . "z:/FFX-II/FFX-II 신뢰성 시험 진행현황 취합(20160901이후 삭제 예정)/False Alarm Report/CodeSonar/Minor/★[FFX-II][CFCS][SW 신뢰성 시험] CodeSonar 거짓경보_MFC_MCS_DIAG_Ignored Return Value_CMCSKeyBoardTestDlg_1.docx"))
- ("z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/02. Minor/"
-  (dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/02. Minor/[MLS-II][CFCS][SW 신뢰성 시험] CodeSonar 거짓경보_CABINET_DISP_DISP_Potential Unbounded Loop_10.docx"))
+	(dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/01. Major/[MLS-II][CFCS][SW 신뢰성 시험] CodeSonar 거짓경보_ICUIFF_IP_IFF_Buffer Overrun_송정훈_1.docx"))
  ("c:/Users/dongil/Downloads/atxlinbuildserver(1)/"
-  (dired-filename . "c:/Users/dongil/Downloads/atxlinbuildserver(1)/."))
+	(dired-filename . "c:/Users/dongil/Downloads/atxlinbuildserver(1)/."))
  ("c:/Users/dongil/Downloads/atxwinbuildserver/"
-  (dired-filename . "c:/Users/dongil/Downloads/atxwinbuildserver/ATX_FFX2"))
+	(dired-filename . "c:/Users/dongil/Downloads/atxwinbuildserver/ATX_FFX2"))
  ("c:/Users/dongil/Downloads/atxlinbuildserver(1)/ATX/"
-  (dired-filename . "c:/Users/dongil/Downloads/atxlinbuildserver(1)/ATX/IISS"))
+	(dired-filename . "c:/Users/dongil/Downloads/atxlinbuildserver(1)/ATX/IISS"))
  ("c:/Users/dongil/Downloads/atxlinbuildserver(1)/ATX/IISS/"
-  (dired-filename . "c:/Users/dongil/Downloads/atxlinbuildserver(1)/ATX/IISS/startup_tmuxpane.sh"))
- ("u:/sigconvcs.org" . 42888)
+	(dired-filename . "c:/Users/dongil/Downloads/atxlinbuildserver(1)/ATX/IISS/startup_tmuxpane.sh"))
  ("f:/MYSINGLE20130416/sent/cur/1476930724.3ff37badaec1c1d9.dongil-pc;2,S" . 344)
  ("z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/02. Minor/☆[MLS-II][CFCS][SW 신뢰성 시험] CodeSonar 거짓경보_DLP_L11-IP-IP_Null Test After Dereference_김동일.docx" . 2)
  ("f:/MYSINGLE20130416/sent/cur/1476924728.2887e2b3f248eec6.dongil-pc;2,S" . 286)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/35_init-evil.org" . 39242)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/07_init-key.org" . 13489)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/evil-org-20151202.2347"))
+	(dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/evil-org-20151202.2347"))
  ("t:/usr/local/editor/emacsW32/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs"))
- ("z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/02. 정적시험-실행시간 오류(CodeSonar)/"
-  (dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/02. 정적시험-실행시간 오류(CodeSonar)/DLP_LINK11"))
+	(dired-filename . "t:/usr/local/editor/emacsW32/spacemacs"))
  ("z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/03. 공통파일/01. Major/"
-  (dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/03. 공통파일/01. Major/.."))
+	(dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/03. 공통파일/01. Major/.."))
  ("t:/usr/local/editor/"
-  (dired-filename . "t:/usr/local/editor/emacsW32"))
- ("z:/MLS-II/1. 규격화/신뢰성/"
-  (dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서"))
- ("z:/MLS-II/" . 512)
+	(dired-filename . "t:/usr/local/editor/emacsW32"))
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+lang/c-c++/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+lang/c-c++/funcs.el"))
+	(dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+lang/c-c++/funcs.el"))
  ("z:/MLS-II/2. 개발문서/"
-  (dired-filename . "z:/MLS-II/2. 개발문서/.."))
+	(dired-filename . "z:/MLS-II/2. 개발문서/.."))
  ("z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/02. 정적시험-실행시간 오류(CodeSonar)/DLP_LINK11/" . 421)
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+emacs/org/local/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+emacs/org/local/evil-org"))
+	(dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+emacs/org/local/evil-org"))
  ("z:/MLS-II/1. 규격화/CSCI QT 시험일지/"
-  (dired-filename . "z:/MLS-II/1. 규격화/CSCI QT 시험일지/.."))
+	(dired-filename . "z:/MLS-II/1. 규격화/CSCI QT 시험일지/.."))
  ("z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/03. 공통파일/"
-  (dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/03. 공통파일/.."))
+	(dired-filename . "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/02. 정적시험-실행시간 오류(CodeSonar)/03. 공통파일/.."))
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+emacs/org/local/evil-org/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+emacs/org/local/evil-org/.."))
+	(dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+emacs/org/local/evil-org/.."))
  ("u:/orgdir/unicodexam.txt" . 452)
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/org-evil-20161019.802/org-evil-motion.el" . 6108)
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+emacs/org/local/evil-org/evil-org.el" . 1197)
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/org-evil-20161019.802/org-evil-core.el" . 1910)
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+lang/c-c++/funcs.el" . 2352)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/07_init-key.el" . 498)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/org-evil-20161019.802/org-evil-autoloads.el" . 359)
@@ -252,75 +298,69 @@
  ("t:/usr/local/editor/emacsW32/site-lisp/init/05_init-dired.org" . 18981)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/02_init-macro.org" . 71345)
  ("u:/spacemacs-home/"
-  (dired-filename . "u:/spacemacs-home/x.txt"))
+	(dired-filename . "u:/spacemacs-home/x.txt"))
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/helm-20161017.2343/helm-files.el" . 165063)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/05_init-dired.el" . 14781)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/counsel-20161017.802/counsel.el" . 51578)
  ("u:/orgdir/diary" . 45)
  ("z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/"
-  (dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서"))
+	(dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서"))
  ("z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/"
-  (dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지"))
+	(dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지"))
  ("z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/"
-  (dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서"))
+	(dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서"))
  ("z:/MLS-II/1. 규격화/(★)템플릿작성/5. STD 템플릿/"
-  (dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/5. STD 템플릿/."))
+	(dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/5. STD 템플릿/."))
  ("z:/MLS-II/1. 규격화/(★)템플릿작성/"
-  (dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/2. SVD 템플릿 - 공사중"))
+	(dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/2. SVD 템플릿 - 공사중"))
  ("z:/MLS-II/1. 규격화/MLS-II 규격화 - 취합중/05. STD (70종)  - unti 0923   71 - 70/"
-  (dired-filename . "z:/MLS-II/1. 규격화/MLS-II 규격화 - 취합중/05. STD (70종)  - unti 0923   71 - 70/A90040601STD16_다기능콘솔 CSCI(다기능콘솔관리_다기능콘솔지원)_161019_김영산수정.docx"))
+	(dired-filename . "z:/MLS-II/1. 규격화/MLS-II 규격화 - 취합중/05. STD (70종)  - unti 0923   71 - 70/A90040601STD16_다기능콘솔 CSCI(다기능콘솔관리_다기능콘솔지원)_161019_김영산수정.docx"))
  ("z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New/확인_(MLS-II) CFCS SW CSCI QT 일일시험 수행결과서(20131127)_신호변환기/"
-  (dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New/확인_(MLS-II) CFCS SW CSCI QT 일일시험 수행결과서(20131127)_신호변환기/.."))
+	(dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New/확인_(MLS-II) CFCS SW CSCI QT 일일시험 수행결과서(20131127)_신호변환기/.."))
  ("z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New/확인_(MLS-II) CFCS SW CSCI QT 일일시험 수행결과서(20131204)_신호변환기/"
-  (dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New/확인_(MLS-II) CFCS SW CSCI QT 일일시험 수행결과서(20131204)_신호변환기/.."))
+	(dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New/확인_(MLS-II) CFCS SW CSCI QT 일일시험 수행결과서(20131204)_신호변환기/.."))
  ("z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/"
-  (dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New"))
+	(dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New"))
  ("z:/MLS-II/1. 규격화/MLS-II 규격화 - 취합중/06. STR (27종)  - unti 0921/"
-  (dired-filename . "z:/MLS-II/1. 규격화/MLS-II 규격화 - 취합중/06. STR (27종)  - unti 0921/A90041101STR_레이더비디오녹화_20161017.docx"))
+	(dired-filename . "z:/MLS-II/1. 규격화/MLS-II 규격화 - 취합중/06. STR (27종)  - unti 0921/A90041101STR_레이더비디오녹화_20161017.docx"))
  ("z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New/확인_(MLS-II) CFCS SW CSCI QT 일일시험 수행결과서(20130926)_LINK11/"
-  (dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New/확인_(MLS-II) CFCS SW CSCI QT 일일시험 수행결과서(20130926)_LINK11/.."))
+	(dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New/확인_(MLS-II) CFCS SW CSCI QT 일일시험 수행결과서(20130926)_LINK11/.."))
  ("z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New/확인_(MLS-II) CFCS SW CSCI QT 일일시험 수행결과서(20131002)_Link-11데이터링크처리기/"
-  (dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New/확인_(MLS-II) CFCS SW CSCI QT 일일시험 수행결과서(20131002)_Link-11데이터링크처리기/."))
+	(dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New/확인_(MLS-II) CFCS SW CSCI QT 일일시험 수행결과서(20131002)_Link-11데이터링크처리기/."))
  ("z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New/"
-  (dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New/확인_(MLS-II) CFCS SW CSCI QT 일일시험 수행결과서(20131004)_Link-11데이터링크처리기"))
+	(dired-filename . "z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New/확인_(MLS-II) CFCS SW CSCI QT 일일시험 수행결과서(20131004)_Link-11데이터링크처리기"))
  ("z:/MLS-II/1. 규격화/(★)템플릿작성/6. STR 템플릿/2. 참고문서/1. CSCI QT 시험일지/01. 일일시험결과서/그림_New/확인_(MLS-II) CFCS SW CSCI QT 일일시험 수행결과서(20131004)_Link-11데이터링크처리기/" . 769)
  ("u:/xxx.org" . 2341)
  ("c:/Users/dongil/Downloads/NotoEmoji-unhinted/NotoEmoji-Regular.ttx" . 99)
  ("f:/MYSINGLE20130416/sent/cur/1476869728.2108d462ef0ae900.dongil-pc;2,S" . 334)
- ("t:/gitdir/DLP_LINK11/src/network_rx/network_rx.cpp" . 20209)
  ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m11d.cpp" . 7780)
  ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m4c.cpp" . 21798)
  ("t:/gitdir/DLP_LINK11/src/network_rx/received_frame_filter.cpp" . 1265)
  ("t:/gitdir/DLP_LINK11/src/network_tx/build_message_pairing_association.cpp" . 14623)
- ("t:/gitdir/DLP_LINK11/src/network_tx/build_message_tag.cpp" . 6722)
- ("t:/gitdir/DLP_LINK11/src/network_tx/build_message_track.cpp" . 104771)
- ("t:/gitdir/DLP_LINK11/src/network_tx/network_tx.cpp" . 22722)
  ("t:/gitdir/DLP_LINK11/src/network_rx/received_frame_filter.h" . 866)
  ("u:/orgdir/link11dlra.patch" . 88649)
  ("t:/gitdir/DLP_LINK11/src/network_rx/mmsg_buff.cpp" . 42589)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/org-bullets-20140918.1137/org-bullets.el" . 1405)
  ("t:/gitdir/SIGCONV/topic/IISS_FFXII_COMMON.idl" . 316187)
  ("t:/gitdir/SIGCONV/proj/anacompintf/anacomplib/StatusObservation/"
-  (dired-filename . "t:/gitdir/SIGCONV/proj/anacompintf/anacomplib/StatusObservation/CSODlgStatusSet_FFX.cpp"))
+	(dired-filename . "t:/gitdir/SIGCONV/proj/anacompintf/anacomplib/StatusObservation/CSODlgStatusSet_FFX.cpp"))
  ("t:/gitdir/SIGCONV/topic/"
-  (dired-filename . "t:/gitdir/SIGCONV/topic/IISS_FFXII_COMMON.idl"))
+	(dired-filename . "t:/gitdir/SIGCONV/topic/IISS_FFXII_COMMON.idl"))
  ("t:/gitdir/SIGCONV/proj/"
-  (dired-filename . "t:/gitdir/SIGCONV/proj/.."))
+	(dired-filename . "t:/gitdir/SIGCONV/proj/.."))
  ("t:/gitdir/SIGCONV/startup/"
-  (dired-filename . "t:/gitdir/SIGCONV/startup/.."))
+	(dired-filename . "t:/gitdir/SIGCONV/startup/.."))
  ("t:/gitdir/SIGCONV/"
-  (dired-filename . "t:/gitdir/SIGCONV/common"))
+	(dired-filename . "t:/gitdir/SIGCONV/common"))
  ("t:/gitdir/SIGCONV/common/"
-  (dired-filename . "t:/gitdir/SIGCONV/common/sigconvIPAnacompInterface.cpp"))
+	(dired-filename . "t:/gitdir/SIGCONV/common/sigconvIPAnacompInterface.cpp"))
  ("t:/gitdir/SIGCONV/proj/anacompintf/anacomplib/StatusObservation/CSODlgFileSetSC_FFX.cpp" . 1782)
  ("t:/gitdir/SIGCONV/startup/signalConverterWITHNDDS.cpp" . 11309)
  ("t:/gitdir/SIGCONV/common/sigconvIPAnacompInterface.cpp" . 33696)
  ("t:/gitdir/SIGCONV/proj/anacompintf/anacomplib/RecordControl/CRCOnLineData.cpp" . 16993)
  ("t:/gitdir/SIGCONV/proj/anacompintf/anacomplib/StatusObservation/CSODlgStatusSet_FFX.cpp" . 74517)
- ("t:/gitdir/DLP_LINK11/src/db_access_main/track_controller.cpp" . 33297)
  ("t:/gitdir/SIGCONV/proj/anacompintf/TopicWnd.cpp" . 1082)
  ("t:/gitdir/SIGCONV/common/serverUtil.cpp" . 27222)
- ("t:/gitdir/DLP_LINK11/src/db_access_main/network_track_data_base_hash.cpp" . 53249)
  ("t:/gitdir/DLP_LINK11/src/csds_manager/track_output.cpp" . 18723)
  ("t:/gitdir/DLP_LINK11/src/csds_manager/track_input.cpp" . 187126)
  ("t:/gitdir/DLP_LINK11/src/csds_manager/parameter_adapter.h" . 2562)
@@ -343,28 +383,28 @@
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/xah-get-thing-20161018.601/xah-get-thing-autoloads.el" . 252)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/zenburn-theme-20161018.437/zenburn-theme-autoloads.el" . 471)
  ("c:/Users/dongil/Downloads/"
-  (dired-filename . "c:/Users/dongil/Downloads/Unidings"))
+	(dired-filename . "c:/Users/dongil/Downloads/Unidings"))
  ("c:/Users/dongil/Downloads/NotoEmoji-unhinted/"
-  (dired-filename . "c:/Users/dongil/Downloads/NotoEmoji-unhinted/LICENSE_OFL.txt"))
+	(dired-filename . "c:/Users/dongil/Downloads/NotoEmoji-unhinted/LICENSE_OFL.txt"))
  ("c:/Users/dongil/Downloads/Unidings/"
-  (dired-filename . "c:/Users/dongil/Downloads/Unidings/Unidings.ttf"))
+	(dired-filename . "c:/Users/dongil/Downloads/Unidings/Unidings.ttf"))
  ("t:/PKGA/ISDL_DLP/isdl_dlp/isdlcsdsinterface.h" . 6943)
  ("t:/PKGA/ISDL_DLP/isdl_dlp/isdliddmsg.h" . 48902)
  ("t:/PKGA/"
-  (dired-filename . "t:/PKGA/ISDL_DLP"))
+	(dired-filename . "t:/PKGA/ISDL_DLP"))
  ("t:/PKGA/ISDL_DLP/"
-  (dired-filename . "t:/PKGA/ISDL_DLP/isdl_dlp"))
+	(dired-filename . "t:/PKGA/ISDL_DLP/isdl_dlp"))
  ("t:/PKGA/ISDL_DLP/isdl_dlp/"
-  (dired-filename . "t:/PKGA/ISDL_DLP/isdl_dlp/isdlcsdsinterface.cpp"))
+	(dired-filename . "t:/PKGA/ISDL_DLP/isdl_dlp/isdlcsdsinterface.cpp"))
  ("t:/icms/"
-  (dired-filename . "t:/icms/bin"))
+	(dired-filename . "t:/icms/bin"))
  ("t:/ICD/" . 1338)
  ("t:/gitdir/"
-  (dired-filename . "t:/gitdir/.."))
+	(dired-filename . "t:/gitdir/.."))
  ("t:/KSS/"
-  (dired-filename . "t:/KSS/LBTS"))
+	(dired-filename . "t:/KSS/LBTS"))
  ("t:/KSS/LBTS/"
-  (dired-filename . "t:/KSS/LBTS/STR"))
+	(dired-filename . "t:/KSS/LBTS/STR"))
  ("t:/KSS/LBTS/STR/" . 555)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/34_init-abbrev.el" . 8505)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/12_init-misc.el" . 73728)
@@ -387,18 +427,18 @@
  ("t:/KSS/LBTS/STR/str.txt" . 154)
  ("t:/KSS/LBTS/STR/srs.org" . 20914)
  ("t:/usr/local/editor/emacsW32/cmdutils/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/cmdutils/dkwTORARDO.vbs"))
+	(dired-filename . "t:/usr/local/editor/emacsW32/cmdutils/dkwTORARDO.vbs"))
  ("t:/KSS/SimDLP/src/"
-  (dired-filename . "t:/KSS/SimDLP/src/pyscheme"))
+	(dired-filename . "t:/KSS/SimDLP/src/pyscheme"))
  ("t:/KSS/SimDLP/"
-  (dired-filename . "t:/KSS/SimDLP/src"))
+	(dired-filename . "t:/KSS/SimDLP/src"))
  ("f:/MYSINGLE20130416/sent/cur/1476771607.c0c42f4435d432af.dongil-pc;2,S" . 352)
  ("t:/KSS/LBTS/STD/"
-  (dired-filename . "t:/KSS/LBTS/STD/srs.org"))
+	(dired-filename . "t:/KSS/LBTS/STD/srs.org"))
  ("f:/MYSINGLE20130416/sent/cur/1476766221.32460a7eea0f286a.dongil-pc;2,S" . 471)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/anzu-20161017.907/anzu-autoloads.el" . 1910)
  ("t:/usr/local/editor/emacsW32/site-lisp/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa"))
+	(dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa"))
  ("u:/installerror/개발자설치로그-2016년10월13일15시07분41초.log" . 1270151)
  ("t:/gitdir/SIGCONV/qac.txt" . 1767)
  ("c:/Users/dongil/Downloads/winproj_report(22).csv" . 1558)
@@ -413,32 +453,32 @@
  ("f:/MYSINGLE20130416/drafts/cur/1476700573.83034ae64e5b4445.dongil-pc;2,DS" . 334)
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+email/mu4e/README.org" . 1589)
  ("u:/installerror/"
-  (dired-filename . "u:/installerror/개발자설치로그-2016년10월13일16시11분28초.log"))
+	(dired-filename . "u:/installerror/개발자설치로그-2016년10월13일16시11분28초.log"))
  ("e:/msys264/home/buildadmin/" . 703)
  ("t:/usr/local/editor/emacsW32/site-lisp/thirdparty/sort-group-lines/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/thirdparty/sort-group-lines/.."))
+	(dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/thirdparty/sort-group-lines/.."))
  ("t:/usr/local/editor/emacsW32/site-lisp/thirdparty/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/thirdparty/sort-group-lines"))
+	(dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/thirdparty/sort-group-lines"))
  ("u:/"
-  (dired-filename . "u:/link11dlra.patch"))
+	(dired-filename . "u:/link11dlra.patch"))
  ("t:/gitdir/eaglemail/"
-  (dired-filename . "t:/gitdir/eaglemail/hanwhamail.py"))
+	(dired-filename . "t:/gitdir/eaglemail/hanwhamail.py"))
  ("t:/usr/local/editor/emacsW32/mumailindexer/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/mumailindexer/share"))
+	(dired-filename . "t:/usr/local/editor/emacsW32/mumailindexer/share"))
  ("t:/usr/local/editor/emacsW32/mumailindexer/share/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/mumailindexer/share/aclocal"))
+	(dired-filename . "t:/usr/local/editor/emacsW32/mumailindexer/share/aclocal"))
  ("t:/usr/local/editor/emacsW32/mumailindexer/share/emacs/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/mumailindexer/share/emacs/site-lisp"))
+	(dired-filename . "t:/usr/local/editor/emacsW32/mumailindexer/share/emacs/site-lisp"))
  ("t:/usr/local/editor/emacsW32/mumailindexer/share/emacs/site-lisp/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/mumailindexer/share/emacs/site-lisp/mu4e"))
+	(dired-filename . "t:/usr/local/editor/emacsW32/mumailindexer/share/emacs/site-lisp/mu4e"))
  ("t:/usr/local/editor/emacsW32/mumailindexer/share/emacs/site-lisp/mu4e/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/mumailindexer/share/emacs/site-lisp/mu4e/org-mu4e.el"))
+	(dired-filename . "t:/usr/local/editor/emacsW32/mumailindexer/share/emacs/site-lisp/mu4e/org-mu4e.el"))
  ("t:/MISC/"
-  (dired-filename . "t:/MISC/mu-msys2"))
+	(dired-filename . "t:/MISC/mu-msys2"))
  ("t:/MISC/mu-msys2/"
-  (dired-filename . "t:/MISC/mu-msys2/mu4e"))
+	(dired-filename . "t:/MISC/mu-msys2/mu4e"))
  ("t:/MISC/mu-msys2/mu4e/"
-  (dired-filename . "t:/MISC/mu-msys2/mu4e/org-mu4e.el"))
+	(dired-filename . "t:/MISC/mu-msys2/mu4e/org-mu4e.el"))
  ("t:/usr/local/editor/emacsW32/site-lisp/thirdparty/sort-group-lines/sort-group-lines.el" . 1421)
  ("t:/usr/local/editor/emacsW32/mumailindexer/share/emacs/site-lisp/mu4e/mu4e-compose.el" . 10534)
  ("t:/usr/local/editor/emacsW32/mumailindexer/share/emacs/site-lisp/mu4e/org-mu4e.el.~7484da~" . 8976)
@@ -466,22 +506,21 @@
  ("t:/MLS2/zdeploy/mlsins/install.xml" . 187829)
  ("t:/MLS2/규격화/figsigconv.txt" . 431)
  ("t:/MLS2/규격화/"
-  (dired-filename . "t:/MLS2/규격화/fig.txt"))
+	(dired-filename . "t:/MLS2/규격화/fig.txt"))
  ("t:/MLS2/"
-  (dired-filename . "t:/MLS2/zdeploy"))
+	(dired-filename . "t:/MLS2/zdeploy"))
  ("c:/usr/local/"
-  (dired-filename . "c:/usr/local/7zip"))
- ("t:/usr/local/keytweak/" . 465)
+	(dired-filename . "c:/usr/local/7zip"))
  ("t:/MLS2/zdeploy/mlsins-ils/"
-  (dired-filename . "t:/MLS2/zdeploy/mlsins-ils/.."))
+	(dired-filename . "t:/MLS2/zdeploy/mlsins-ils/.."))
  ("t:/MLS2/zdeploy/"
-  (dired-filename . "t:/MLS2/zdeploy/mlsins"))
+	(dired-filename . "t:/MLS2/zdeploy/mlsins"))
  ("t:/MLS2/zdeploy/mlsins/"
-  (dired-filename . "t:/MLS2/zdeploy/mlsins/install.xml"))
+	(dired-filename . "t:/MLS2/zdeploy/mlsins/install.xml"))
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/mu4e-maildirs-extension-20160911.41/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/mu4e-maildirs-extension-20160911.41/mu4e-maildirs-extension.el"))
+	(dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/mu4e-maildirs-extension-20160911.41/mu4e-maildirs-extension.el"))
  ("t:/gitdir/SIGCONV/sbc1/"
-  (dired-filename . "t:/gitdir/SIGCONV/sbc1/SigconvIPStabInterface.h"))
+	(dired-filename . "t:/gitdir/SIGCONV/sbc1/SigconvIPStabInterface.h"))
  ("t:/MLS2/규격화/work.org" . 39507)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/dotemacs.win7" . 12256)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/spacemacs.win7" . 17141)
@@ -513,52 +552,5 @@
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/undo-tree-20161012.701/undo-tree-autoloads.el" . 1653)
  ("e:/msys264/usr/lib/git-core/git-svn" . 38854)
  ("e:/msys264/"
-  (dired-filename . "e:/msys264/dev"))
- ("t:/gitdir/SIGCONV/sbc6/sigconvIPDataRecorder.cpp" . 56686)
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/ibuffer-projectile-20150121.837/ibuffer-projectile-autoloads.el" . 659)
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/+lang/graphviz/README.org" . 940)
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/+emacs/better-defaults/README.org" . 2566)
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/dired+-20161012.1400/dired+-autoloads.el" . 77829)
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/counsel-projectile-20161012.1407/counsel-projectile-autoloads.el" . 1976)
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/slime-20161012.1531/slime-autoloads.el" . 1301)
- ("c:/Users/dongil/Downloads/CBCUSDControl.cpp" . 8700)
- ("t:/gitdir/SIGCONV/sbc6/"
-  (dired-filename . "t:/gitdir/SIGCONV/sbc6/.."))
- ("t:/MLS2/devenv/icmslib/include/"
-  (dired-filename . "t:/MLS2/devenv/icmslib/include/ICMSDefine.h"))
- ("t:/MLS2/devenv/icmslib/"
-  (dired-filename . "t:/MLS2/devenv/icmslib/include"))
- ("t:/MLS2/devenv/"
-  (dired-filename . "t:/MLS2/devenv/icmslib"))
- ("t:/gitdir/SIGCONV/sbc4/"
-  (dired-filename . "t:/gitdir/SIGCONV/sbc4/CBCUSDControl.cpp"))
- ("t:/MLS2/devenv/icmslib/include/ICMSDefine.h" . 40846)
- ("t:/gitdir/SIGCONV/sbc4/sigconvIPGunSDInterface.h.~git-svn_mlsii~" . 1857)
- ("f:/MYSINGLE20130416/sent/cur/1476328885.ccb44ec4482f557e.dongil-pc;2,S" . 340)
- ("t:/FFX/zdeploy/ffxins/res/ffxins.xml" . 92987)
- ("t:/usr/local/editor/emacsW32/YASnippet/text-mode/fname" . 39)
- ("t:/usr/local/editor/emacsW32/site-lisp/init/39_init-expand.el" . 2012)
- ("t:/FFX/zdeploy/"
-  (dired-filename . "t:/FFX/zdeploy/ffxins"))
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/yasnippet-20160924.2001/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/yasnippet-20160924.2001/snippets"))
- ("t:/usr/local/editor/emacsW32/YASnippet/text-mode/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/YASnippet/text-mode/.."))
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/yasnippet-20160924.2001/snippets/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/yasnippet-20160924.2001/snippets/c++-mode"))
- ("t:/FFX/zdeploy/ffxins-ILS/"
-  (dired-filename . "t:/FFX/zdeploy/ffxins-ILS/util.pyc"))
- ("t:/FFX/zdeploy/ffxins/" . 3931)
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/yasnippet-20160924.2001/snippets/emacs-lisp-mode/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/yasnippet-20160924.2001/snippets/emacs-lisp-mode/.."))
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/yasnippet-20160924.2001/snippets/c-mode/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/yasnippet-20160924.2001/snippets/c-mode/.."))
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/yasnippet-20160924.2001/snippets/c++-mode/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/yasnippet-20160924.2001/snippets/c++-mode/.."))
- ("t:/usr/local/editor/emacsW32/YASnippet/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/YASnippet/.."))
- ("t:/FFX/"
-  (dired-filename . "t:/FFX/zdeploy"))
- ("f:/MYSINGLE20130416/sent/cur/1476325016.0f1a724a64e36a60.dongil-pc;2,S" . 346)
- ("f:/MYSINGLE20130416/sent/cur/1476324228.57b6dc0440a8d35f.dongil-pc;2,S" . 441)
- ("u:/abcd.cpp" . 1031))
+	(dired-filename . "e:/msys264/dev"))
+ ("t:/gitdir/SIGCONV/sbc6/sigconvIPDataRecorder.cpp" . 56686))
