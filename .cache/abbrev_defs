@@ -5,9 +5,15 @@
 
 (define-abbrev-table 'Info-edit-mode-abbrev-table '())
 
+(define-abbrev-table 'Man-mode-abbrev-table '())
+
 (define-abbrev-table 'ada-mode-abbrev-table '())
 
+(define-abbrev-table 'ag-mode-abbrev-table '())
+
 (define-abbrev-table 'anaconda-mode-view-mode-abbrev-table '())
+
+(define-abbrev-table 'apropos-mode-abbrev-table '())
 
 (define-abbrev-table 'awk-mode-abbrev-table
   '(
@@ -53,9 +59,53 @@
 
 (define-abbrev-table 'completion-list-mode-abbrev-table '())
 
+(define-abbrev-table 'conf-colon-mode-abbrev-table '())
+
+(define-abbrev-table 'conf-javaprop-mode-abbrev-table '())
+
+(define-abbrev-table 'conf-ppd-mode-abbrev-table '())
+
+(define-abbrev-table 'conf-space-mode-abbrev-table '())
+
+(define-abbrev-table 'conf-unix-mode-abbrev-table '())
+
+(define-abbrev-table 'conf-windows-mode-abbrev-table '())
+
+(define-abbrev-table 'conf-xdefaults-mode-abbrev-table '())
+
+(define-abbrev-table 'cperl-mode-abbrev-table
+  '(
+    ("=head1" "=head1" cperl-electric-pod 0)
+    ("=head2" "=head2" cperl-electric-pod 0)
+    ("=over" "=over" cperl-electric-pod 0)
+    ("=pod" "=pod" cperl-electric-pod 0)
+    ("continue" "continue" cperl-electric-else 0)
+    ("do" "do" cperl-electric-keyword 0)
+    ("else" "else" cperl-electric-else 0)
+    ("elsif" "elsif" cperl-electric-keyword 0)
+    ("for" "for" cperl-electric-keyword 0)
+    ("foreach" "foreach" cperl-electric-keyword 0)
+    ("foreachmy" "foreachmy" cperl-electric-keyword 0)
+    ("formy" "formy" cperl-electric-keyword 0)
+    ("head1" "head1" cperl-electric-pod 0)
+    ("head2" "head2" cperl-electric-pod 0)
+    ("if" "if" cperl-electric-keyword 0)
+    ("over" "over" cperl-electric-pod 0)
+    ("pod" "pod" cperl-electric-pod 0)
+    ("unless" "unless" cperl-electric-keyword 0)
+    ("until" "until" cperl-electric-keyword 0)
+    ("while" "while" cperl-electric-keyword 0)
+   ))
+
 (define-abbrev-table 'debugger-mode-abbrev-table '())
 
+(define-abbrev-table 'diary-fancy-display-mode-abbrev-table '())
+
+(define-abbrev-table 'diary-mode-abbrev-table '())
+
 (define-abbrev-table 'diff-mode-abbrev-table '())
+
+(define-abbrev-table 'dig-mode-abbrev-table '())
 
 (define-abbrev-table 'diredp-w32-drives-mode-abbrev-table '())
 
@@ -117,6 +167,18 @@
 
 (define-abbrev-table 'gdb-threads-mode-abbrev-table '())
 
+(define-abbrev-table 'geiser-debug-mode-abbrev-table '())
+
+(define-abbrev-table 'geiser-doc-mode-abbrev-table '())
+
+(define-abbrev-table 'geiser-messages-mode-abbrev-table '())
+
+(define-abbrev-table 'geiser-repl-mode-abbrev-table '())
+
+(define-abbrev-table 'geiser-xref-mode-abbrev-table '())
+
+(define-abbrev-table 'gfm-mode-abbrev-table '())
+
 (define-abbrev-table 'ggtags-global-mode-abbrev-table '())
 
 (define-abbrev-table 'ggtags-view-search-history-mode-abbrev-table '())
@@ -124,6 +186,8 @@
 (define-abbrev-table 'git-gutter+-commit-mode-abbrev-table '())
 
 (define-abbrev-table 'git-rebase-mode-abbrev-table '())
+
+(define-abbrev-table 'gitconfig-mode-abbrev-table '())
 
 (define-abbrev-table 'global-abbrev-table
   '(
@@ -357,6 +421,7 @@
     ("8ha7" "👆" nil 0)
     ("8ha8" "👇" nil 0)
     ("8ha9" "👈" nil 0)
+    ("8haddr" "구미시 금오산금호어울림1단지 금오산금호어울림 102동 401호" nil 0)
     ("8hd" "👇" nil 0)
     ("8hfive" "👋" nil 0)
     ("8hl" "👈" nil 0)
@@ -541,7 +606,7 @@
     ("8sc7" "◶" nil 0)
     ("8sc8" "◷" nil 0)
     ("8sc9" "⚆" nil 0)
-    ("8seen" "✔" nil 0)
+    ("8seen" "✔" nil 1)
     ("8sftp" "sftp xah@xahlee.org" nil 0)
     ("8shift" "⇧" nil 0)
     ("8si" "∑" nil 0)
@@ -628,11 +693,21 @@
     ("8만" "卍" nil 0)
    ))
 
+(define-abbrev-table 'gnus-article-edit-mode-abbrev-table '())
+
+(define-abbrev-table 'gnus-article-mode-abbrev-table '())
+
 (define-abbrev-table 'gnus-group-mode-abbrev-table '())
+
+(define-abbrev-table 'gnus-sticky-article-mode-abbrev-table '())
+
+(define-abbrev-table 'google-contacts-mode-abbrev-table '())
 
 (define-abbrev-table 'grep-mode-abbrev-table '())
 
 (define-abbrev-table 'gud-mode-abbrev-table '())
+
+(define-abbrev-table 'helm-ag-mode-abbrev-table '())
 
 (define-abbrev-table 'helm-grep-mode-abbrev-table '())
 
@@ -718,6 +793,8 @@
 
 (define-abbrev-table 'magit-status-mode-abbrev-table '())
 
+(define-abbrev-table 'markdown-mode-abbrev-table '())
+
 (define-abbrev-table 'message-mode-abbrev-table '())
 
 (define-abbrev-table 'messages-buffer-mode-abbrev-table '())
@@ -744,6 +821,10 @@
 
 (define-abbrev-table 'package-menu-mode-abbrev-table '())
 
+(define-abbrev-table 'paradox-commit-list-mode-abbrev-table '())
+
+(define-abbrev-table 'paradox-menu-mode-abbrev-table '())
+
 (define-abbrev-table 'pike-mode-abbrev-table
   '(
    ))
@@ -766,6 +847,16 @@
 
 (define-abbrev-table 'qac-mode-abbrev-table '())
 
+(define-abbrev-table 'reb-lisp-mode-abbrev-table '())
+
+(define-abbrev-table 'reb-mode-abbrev-table '())
+
+(define-abbrev-table 'rst-mode-abbrev-table '())
+
+(define-abbrev-table 'rst-toc-mode-abbrev-table '())
+
+(define-abbrev-table 'rxt-help-mode-abbrev-table '())
+
 (define-abbrev-table 'scheme-mode-abbrev-table '())
 
 (define-abbrev-table 'select-tags-table-mode-abbrev-table '())
@@ -779,6 +870,8 @@
 (define-abbrev-table 'skewer-clients-mode-abbrev-table '())
 
 (define-abbrev-table 'skewer-error-mode-abbrev-table '())
+
+(define-abbrev-table 'smime-mode-abbrev-table '())
 
 (define-abbrev-table 'snippet-mode-abbrev-table '())
 
@@ -796,11 +889,17 @@
 
 (define-abbrev-table 'tabulated-list-mode-abbrev-table '())
 
+(define-abbrev-table 'tar-mode-abbrev-table '())
+
 (define-abbrev-table 'telnet-mode-abbrev-table '())
 
 (define-abbrev-table 'term-mode-abbrev-table '())
 
 (define-abbrev-table 'text-mode-abbrev-table '())
+
+(define-abbrev-table 'thumbs-mode-abbrev-table '())
+
+(define-abbrev-table 'thumbs-view-image-mode-abbrev-table '())
 
 (define-abbrev-table 'url-cookie-mode-abbrev-table '())
 
@@ -816,10 +915,51 @@
 
 (define-abbrev-table 'vc-hg-log-view-mode-abbrev-table '())
 
+(define-abbrev-table 'vc-svn-log-view-mode-abbrev-table '())
+
 (define-abbrev-table 'web-mode-abbrev-table '())
 
 (define-abbrev-table 'xah-css-mode-abbrev-table
   '(
+    ("bgc" "background-color" xah-css--ahf 0)
+    ("rgb" "rgb(▮)" xah-css--ahf 0)
+    ("rgba" "rgba(▮)" xah-css--ahf 0)
+    ("rotate" "rotate(▮9deg)" xah-css--ahf 0)
+    ("rotate3d" "rotate3d(▮)" xah-css--ahf 0)
+    ("rotateX" "rotateX(▮)" xah-css--ahf 0)
+    ("rotateY" "rotateY(▮)" xah-css--ahf 0)
+    ("rotateZ" "rotateZ(▮)" xah-css--ahf 0)
+    ("scale" "scale(▮)" xah-css--ahf 0)
+    ("scale3d" "scale3d(▮)" xah-css--ahf 0)
+    ("scaleX" "scaleX(▮)" xah-css--ahf 0)
+    ("scaleY" "scaleY(▮)" xah-css--ahf 0)
+    ("scaleZ" "scaleZ(▮)" xah-css--ahf 0)
+    ("skew" "skew(▮9deg)" xah-css--ahf 0)
+    ("skewX" "skewX(▮)" xah-css--ahf 0)
+    ("skewY" "skewY(▮)" xah-css--ahf 0)
+    ("steps" "steps(▮)" xah-css--ahf 0)
+    ("translate" "translate(▮px,▮px)" xah-css--ahf 0)
+    ("translate3d" "translate3d(▮)" xah-css--ahf 0)
+    ("translateX" "translateX(▮)" xah-css--ahf 0)
+    ("translateY" "translateY(▮)" xah-css--ahf 0)
+    ("translateZ" "translateZ(▮)" xah-css--ahf 0)
+    ("zaqua" "#00ffff" xah-css--ahf 0)
+    ("zblack" "#000000" xah-css--ahf 0)
+    ("zblue" "#0000ff" xah-css--ahf 0)
+    ("zfuchsia" "#ff00ff" xah-css--ahf 0)
+    ("zgray" "#808080" xah-css--ahf 0)
+    ("zgreen" "#008000" xah-css--ahf 0)
+    ("zlime" "#00ff00" xah-css--ahf 0)
+    ("zmaroon" "#800000" xah-css--ahf 0)
+    ("znavy" "#000080" xah-css--ahf 0)
+    ("zolive" "#808000" xah-css--ahf 0)
+    ("zorange" "#ffa500" xah-css--ahf 0)
+    ("zpurple" "#800080" xah-css--ahf 0)
+    ("zred" "#ff0000" xah-css--ahf 0)
+    ("zsilver" "#c0c0c0" xah-css--ahf 0)
+    ("zteal" "#008080" xah-css--ahf 0)
+    ("zwhite" "#ffffff" xah-css--ahf 0)
+    ("zyellow" "#ffff00" xah-css--ahf 0)
    ))
 
 (define-abbrev-table 'xah-html-abbrev-table

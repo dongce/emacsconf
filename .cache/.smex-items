@@ -2,57 +2,127 @@
 ;; ----- smex-history -----
 (
  ibuffer
- narrow-to-region
  occur
+ ag
+ dired-mark-files-regexp
+ dired-mark-sexp
+ paradox-upgrade-packages
+ toggle-read-only
+ diff-hunk-next
+ diff-hl-next-hunk
+ evil-normal-state
+ whitespace-mode
+ woman
  replace-string
- flush-lines
- count-words-region
- flush-empty-lines
- highlight-regexp
- highlight-symbol
- widen
- grep
- company-files
- helm-company
+ ido-mode
+ hide-lines
+ savehist-mode
+ recover-this-file
  exit-recursive-edit
+ hide-lines-matching
+ dired-sort-toggle-or-edit
+ c-mode
+ org-capture
+ grep
+ flush-lines
+ org-version
+ run-python
+ indent-region
+ count-words-region
+ bm-toggle
+ helm-mode
  init-loader-show-log
- edebug-defun
- emacs-lisp-mode
- cd
- w3
- 5x5
- ack
- arp
- dbx
- dig
- erc
- ert
- eww
- ftp
- gdb
- irc
- jdb
- man
+ paradox-list-packages
 )
 
 ;; ----- smex-data -----
 (
  (emacs-lisp-mode . 1)
- (ibuffer . 3)
- (edebug-defun . 1)
- (replace-string . 5)
- (init-loader-show-log . 1)
- (exit-recursive-edit . 1)
+ (ibuffer . 63)
+ (edebug-defun . 3)
+ (replace-string . 16)
+ (init-loader-show-log . 5)
+ (exit-recursive-edit . 2)
  (helm-company . 1)
- (company-files . 1)
- (occur . 16)
- (count-words-region . 4)
- (grep . 5)
+ (company-files . 4)
+ (occur . 66)
+ (count-words-region . 6)
+ (grep . 38)
  (org-evil-mode . 3)
- (flush-empty-lines . 3)
- (widen . 1)
+ (flush-empty-lines . 13)
+ (widen . 3)
  (highlight-symbol . 1)
  (highlight-regexp . 1)
- (flush-lines . 3)
- (narrow-to-region . 1)
+ (flush-lines . 28)
+ (narrow-to-region . 3)
+ (insert-char . 1)
+ (indent-region . 6)
+ (python-shell-switch-to-shell . 3)
+ (w32-find-dired . 38)
+ (run-python . 6)
+ (fbmk2 . 3)
+ (orgmail . 8)
+ (whitespace-mode . 8)
+ (global-set-key . 4)
+ (refine-all . 5)
+ (evil-normal-state . 9)
+ (toggle-read-only . 18)
+ (org-insert-alllink . 4)
+ (bm-toggle . 5)
+ (text-mode . 3)
+ (c-mode . 1)
+ (quelpa . 1)
+ (query-replace . 1)
+ (paradox-list-packages . 5)
+ (helm-dired-history-view . 3)
+ (evil-emacs-state . 1)
+ (mu . 9)
+ (version . 1)
+ (savehist-mode . 2)
+ (ido-mode . 9)
+ (mu4e . 3)
+ (strline . 2)
+ (helm-mode . 5)
+ (counsel-find-file . 1)
+ (org-capture . 49)
+ (org-mode . 1)
+ (browse-kill-ring . 3)
+ (ag . 24)
+ (org-refile . 1)
+ (helm-org-agenda-files-headings . 1)
+ (helm-org-in-buffer-headings . 3)
+ (helm-org-run-heading-refile . 2)
+ (helm-org-headings . 13)
+ (recover-this-file . 2)
+ (dos2unix . 1)
+ (company-mode . 1)
+ (indent-pp-sexp . 1)
+ (untabify . 1)
+ (wgrep-change-to-wgrep-mode . 2)
+ (w32-open . 1)
+ (dired-sort-dialogue . 1)
+ (dired-quick-sort . 3)
+ (dired-sort-toggle-or-edit . 2)
+ (mucontacts . 3)
+ (mtjcode . 2)
+ (debug-on-error . 2)
+ (org-version . 10)
+ (debug-on-entry . 1)
+ (hide-lines . 2)
+ (hide-lines-matching . 2)
+ (ediff-buffers . 1)
+ (uniquify-region . 5)
+ (paradox-upgrade-packages . 3)
+ (trace-function . 1)
+ (auto-fill-mode . 1)
+ (2-zip . 1)
+ (ggtags-find-definition . 4)
+ (ggtags-prev-mark . 3)
+ (woman . 1)
+ (diff-hl-next-hunk . 2)
+ (diff-hunk-next . 1)
+ (what . 1)
+ (dired-mark-sexp . 1)
+ (dired-mark-files-regexp . 1)
+ (w32explore . 1)
 )
