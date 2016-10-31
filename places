@@ -1,26 +1,211 @@
 ;;; -*- coding: utf-8 -*-
-(("u:/spacemacs-home/.elfeed/index" . 1501692)
- ("t:/usr/local/editor/emacsW32/spacemacs/.cache/layouts/persp-auto-save" . 2242)
+(("u:/spacemacs-home/.elfeed/index" . 1572902)
+ ("t:/usr/local/editor/emacsW32/spacemacs/.cache/layouts/persp-auto-save" . 1336)
+ ("u:/orgdir/notes.org" . 185)
+ ("t:/usr/local/editor/emacsW32/spacemacs/"
+  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/.travis-build.sh"))
+ ("t:/usr/local/editor/"
+  (dired-filename . "t:/usr/local/editor/emacsW32"))
+ ("u:/orgdir/"
+  (dired-filename . "u:/orgdir/notes.org"))
+ ("t:/usr/local/editor/emacsW32/"
+  (dired-filename . "t:/usr/local/editor/emacsW32/ConEmul"))
+ ("t:/usr/local/editor/emacsW32/ConEmul/"
+  (dired-filename . "t:/usr/local/editor/emacsW32/ConEmul/ConEmu.xml"))
+ ("t:/usr/local/editor/emacsW32/site-lisp/init/36_init-appearance.org" . 49088)
+ ("t:/usr/local/editor/emacsW32/site-lisp/init/34_init-abbrev.org" . 3038)
+ ("t:/usr/local/editor/emacsW32/emacs25264/share/emacs/25.1.50/lisp/align.el.gz" . 31956)
+ ("t:/usr/local/editor/emacsW32/spacemacs/layers/+distributions/spacemacs-base/keybindings.el" . 16380)
+ ("t:/usr/local/editor/emacsW32/spacemacs/layers/+distributions/spacemacs-base/funcs.el" . 23856)
+ ("t:/usr/local/editor/emacsW32/site-lisp/init/05_init-dired.el" . 12212)
+ ("t:/usr/local/editor/emacsW32/emacs25264/share/emacs/25.1.50/lisp/rect.el.gz" . 12154)
+ ("u:/spacemacs-home/xx.sh" . 423)
+ ("f:/MYSINGLE20130416/sent/cur/1477874237.ff3ea0d17e64e03d.dongil-pc;2,S" . 329)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/0xc-20161027.2140/0xc-autoloads.el" . 590)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/ag-20161027.1758/ag-autoloads.el" . 3041)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/anaconda-mode-20161028.29/anaconda-mode-autoloads.el" . 611)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/auto-complete-20161029.643/auto-complete-autoloads.el" . 1705)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/bookmark+-20161027.926/bookmark+-autoloads.el" . 26857)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/cdnjs-20161030.130/cdnjs-autoloads.el" . 985)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/clippy-20161028.1254/clippy-autoloads.el" . 794)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/counsel-20161030.48/counsel-autoloads.el" . 6768)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/elpy-20161028.215/elpy-autoloads.el" . 1064)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/evil-surround-20161029.606/evil-surround-autoloads.el" . 1659)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/eyebrowse-20161027.1213/eyebrowse-autoloads.el" . 1338)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/flim-20161029.1930/flim-autoloads.el" . 11933)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/flycheck-20161030.316/flycheck-autoloads.el" . 8429)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/helm-20161029.1047/helm-autoloads.el" . 28567)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/helm-core-20161028.2141/helm-core-autoloads.el" . 6070)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/ivy-20161030.27/ivy-autoloads.el" . 3773)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/jade-20161028.901/jade-autoloads.el" . 742)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/leuven-theme-20161030.1205/leuven-theme-autoloads.el" . 677)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/magit-20161030.317/magit-autoloads.el" . 55114)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/neotree-20161028.2314/neotree-autoloads.el" . 1240)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/org-evil-20161029.222/org-evil-autoloads.el" . 359)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/palimpsest-20161029.400/palimpsest-autoloads.el" . 671)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/rtags-20161028.1136/rtags-autoloads.el" . 9905)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/shell-switcher-20161028.2252/shell-switcher-autoloads.el" . 3542)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/smartparens-20161029.837/smartparens-autoloads.el" . 6443)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/vc-fossil-20161030.842/vc-fossil-autoloads.el" . 484)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/which-key-20161029.618/which-key-autoloads.el" . 3879)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/xterm-color-20161029.2045/xterm-color-autoloads.el" . 248)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/yasnippet-20161026.1601/yasnippet-autoloads.el" . 1606)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/zeal-at-point-20161027.2344/zeal-at-point-autoloads.el" . 650)
+ ("u:/"
+  (dired-filename . "u:/malgun.ttf"))
+ ("u:/miscfiles/"
+  (dired-filename . "u:/miscfiles/MS 워드 단축키 정리.pdf"))
+ ("c:/Windows/Fonts/"
+  (dired-filename . "c:/Windows/Fonts/LATINWD.TTF"))
+ ("u:/orgdir/info.org" . 757380)
+ ("f:/"
+  (dired-filename . "f:/MYSINGLE20130416"))
+ ("f:/MYSINGLE20130416/"
+  (dired-filename . "f:/MYSINGLE20130416/eaglemail"))
+ ("f:/MYSINGLE20130416/eaglemail/" . 840)
+ ("t:/usr/local/editor/emacsW32/spacemacs/.cache/recentf" . 25480)
+ ("t:/usr/local/editor/emacsW32/delpa/" . 543)
+ ("t:/ATX/STATIC/QAC20161028/" . 1112)
+ ("t:/ATX/"
+  (dired-filename . "t:/ATX/STATIC"))
+ ("t:/ATX/STATIC/"
+  (dired-filename . "t:/ATX/STATIC/."))
+ ("t:/ATX/STATIC/IP_L11.txt" . 525)
+ ("t:/ATX/STATIC/IP.csv" . 2053)
+ ("t:/ATX/STATIC/ip.txt" . 1455)
+ ("u:/spacemacs-home/.spacemacs" . 40406)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/slim-mode-20140611.950/slim-mode-autoloads.el" . 457)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/scss-mode-20150107.1400/scss-mode-autoloads.el" . 496)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/pug-mode-20160915.252/pug-mode-autoloads.el" . 514)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/emmet-mode-20160906.1919/emmet-mode-autoloads.el" . 1577)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/company-web-20160502.658/company-web-autoloads.el" . 1197)
+ ("t:/ATX/STATIC/QAC/result.csv" . 21742)
+ ("t:/ATX/STATIC/QAC/QAVReportParser.py" . 617)
+ ("t:/gitdir/DLP_LINK11/src/network_tx/build_message_track.cpp" . 100122)
+ ("t:/gitdir/"
+  (dired-filename . "t:/gitdir/SIGCONV"))
+ ("t:/ATX/STATIC/QAC/"
+  (dired-filename . "t:/ATX/STATIC/QAC/DP_L11_ss_20160816093641.xml"))
+ ("c:/Users/dongil/"
+  (dired-filename . "c:/Users/dongil/Desktop"))
+ ("c:/Users/dongil/Desktop/"
+  (dired-filename . "c:/Users/dongil/Desktop/~$보고-III-CS][PIDS][v1.4]-Link-11-통제_2015032737LINK11수정.docx"))
+ ("t:/"
+  (dired-filename . "t:/IIDS"))
+ ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/helm/packages.el" . 2435)
+ ("t:/usr/local/editor/emacsW32/site-lisp/init/52_bigblow.el" . 22924)
+ ("u:/orgdir/notes.org_archive" . 1108367)
+ ("u:/orgdir/web.org" . 506)
+ ("u:/orgdir/wbs.org" . 362)
+ ("u:/orgdir/kss3.org" . 55567)
+ ("u:/orgdir/target.org" . 53)
+ ("t:/usr/local/editor/emacsW32/site-lisp/init/22_init-buffer.org" . 18265)
  ("u:/orgdir/diary" . 45)
+ ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/helm/"
+  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/helm/packages.el"))
+ ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/ivy/packages.el" . 5195)
+ ("u:/orgdir/script.org" . 2)
+ ("u:/orgdir/legacy.org" . 44881)
+ ("u:/orgdir/atx.org" . 654)
+ ("t:/gitdir/SIGCONV/.git/config" . 7)
+ ("t:/gitdir/DLP_LINK11/.git/config" . 8)
+ ("u:/spacemacs-home/.gitconfig" . 550)
+ ("t:/FFX/zdeploy/ffxins/res/ffxins.xml" . 142994)
+ ("t:/gitdir/icmsins/install.xml" . 994)
+ ("c:/Users/dongil/Downloads/install-ffx2(7).xml" . 108280)
+ ("c:/Users/dongil/Downloads/install(1).xml" . 72239)
+ ("c:/DrainTempFolder.bat" . 986)
+ ("u:/orgdir/files.txt" . 142)
+ ("m:/MANUAL/"
+  (dired-filename . "m:/MANUAL/PYTHON-FILTER"))
+ ("m:/"
+  (dired-filename . "m:/BACKUP"))
+ ("t:/ATX/STD/"
+  (dired-filename . "t:/ATX/STD/trace.org"))
+ ("t:/STATIC/" . 166)
+ ("c:/Users/"
+  (dired-filename . "c:/Users/.."))
+ ("c:/Users/dongil/AppData/"
+  (dired-filename . "c:/Users/dongil/AppData/Local"))
+ ("c:/Users/dongil/AppData/Local/"
+  (dired-filename . "c:/Users/dongil/AppData/Local/Temp"))
+ ("u:/Users/dongil/AppData/Local/Temp/"
+  (dired-filename . "u:/Users/dongil/AppData/Local/Temp/{125EB2EF-A48D-4A8B-811F-C57D3C93B9BD}"))
+ ("c:/"
+  (dired-filename . "c:/DrainTempFolder.bat"))
+ ("t:/FFX/"
+  (dired-filename . "t:/FFX/logdata"))
+ ("t:/FFX/zdeploy/"
+  (dired-filename . "t:/FFX/zdeploy/ffxins"))
+ ("t:/FFX/zdeploy/ffxins/"
+  (dired-filename . "t:/FFX/zdeploy/ffxins/res"))
+ ("t:/FFX/zdeploy/ffxins/res/" . 660)
+ ("t:/gitdir/icmsins/"
+  (dired-filename . "t:/gitdir/icmsins/ffxins.pyw"))
+ ("t:/gitdir/SIGCONV/"
+  (dired-filename . "t:/gitdir/SIGCONV/.git"))
+ ("t:/gitdir/SIGCONV/.git/"
+  (dired-filename . "t:/gitdir/SIGCONV/.git/config"))
+ ("t:/gitdir/DLP_LINK11/"
+  (dired-filename . "t:/gitdir/DLP_LINK11/.git"))
+ ("t:/gitdir/DLP_LINK11/.git/"
+  (dired-filename . "t:/gitdir/DLP_LINK11/.git/config"))
+ ("m:/BACKUP/"
+  (dired-filename . "m:/BACKUP/hwp.7z.gpg"))
+ ("t:/usr/local/editor/emacsW32/site-lisp/init/"
+  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/init/22_init-buffer.org"))
+ ("t:/hwp.sh" . 13934)
+ ("c:/Users/dongil/Downloads/env_196(2).sh" . 963)
+ ("c:/Users/dongil/Downloads/iiss_env1(2).sh" . 2613)
+ ("t:/MLS2/규격화/work.org" . 14627)
+ ("t:/ATX/STD/work.org" . 3179)
+ ("u:/orgdir/backup-mlsii.7z" . 76)
+ ("f:/MYSINGLE20130416/sent/cur/1477630667.03d16a9e9637b9b6.dongil-pc;2,S" . 323)
+ ("c:/DrainTempFolderSchedule.bat" . 141)
+ ("t:/usr/local/editor/emacsW32/cmdutils/"
+  (dired-filename . "t:/usr/local/editor/emacsW32/cmdutils/depends.chm"))
+ ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/ivy/"
+  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/ivy/local"))
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/"
+  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/better-defaults-20160619.2308"))
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/better-defaults-20160619.2308/"
+  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/better-defaults-20160619.2308/better-defaults.el"))
+ ("t:/usr/local/editor/emacsW32/spacemacs/layers/+emacs/better-defaults/packages.el" . 13)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/better-defaults-20160619.2308/better-defaults.el" . 363)
+ ("t:/usr/local/editor/emacsW32/site-lisp/init/07_init-key.org" . 27)
+ ("t:/usr/local/editor/emacsW32/spacemacs/layers/"
+  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+chat"))
+ ("t:/usr/local/editor/emacsW32/site-lisp/"
+  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa"))
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/wttrin-20160414.837/"
+  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/wttrin-20160414.837/wttrin.el"))
+ ("t:/usr/local/editor/emacsW32/delpa/.git/"
+  (dired-filename . "t:/usr/local/editor/emacsW32/delpa/.git/config"))
+ ("t:/usr/local/editor/emacsW32/delpa/.git/config" . 207)
+ ("t:/usr/local/editor/emacsW32/spacemacs/layers/+emacs/ibuffer/README.org" . 265)
+ ("t:/usr/local/editor/emacsW32/spacemacs/layers/+email/mu4e/README.org" . 6342)
+ ("t:/usr/local/editor/emacsW32/spacemacs/layers/+tools/speed-reading/README.org" . 738)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/wttrin-20160414.837/wttrin.el" . 1026)
+ ("t:/usr/local/editor/emacsW32/spacemacs/layers/+tools/geolocation/README.org" . 3136)
+ ("t:/$RECYCLE.BIN/"
+  (dired-filename . "t:/$RECYCLE.BIN/.."))
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/wiki-nav-20150223.554/"
+  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/elpa/wiki-nav-20150223.554/wiki-nav.el"))
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/wiki-nav-20150223.554/wiki-nav.el" . 635)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/solarized-theme-20161009.838/solarized.el" . 2932)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/font-utils-20150806.1051/font-utils.el" . 1532)
+ ("t:/usr/local/editor/emacsW32/site-lisp/init/02_init-macro.org" . 18858)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/find-file-in-project-20161026.145/find-file-in-project-autoloads.el" . 5920)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/sr-speedbar-20161025.131/sr-speedbar-autoloads.el" . 714)
+ ("t:/usr/local/editor/emacsW32/site-lisp/elpa/ztree-20161026.1249/ztree-autoloads.el" . 1272)
+ ("t:/MISC/httppost/" . 1992)
  ("t:/MISC/httppost/pkxbrebuild.bat" . 375)
  ("u:/spacemacs-home/"
   (dired-filename . "u:/spacemacs-home/.matplotlib"))
  ("t:/MISC/"
   (dired-filename . "t:/MISC/httppost"))
- ("t:/MISC/httppost/" . 1992)
- ("u:/orgdir/legacy.org" . 44881)
- ("u:/orgdir/atx.org" . 654)
- ("u:/orgdir/kss3.org" . 58332)
- ("u:/orgdir/info.org" . 783225)
- ("u:/orgdir/notes.org" . 262715)
- ("t:/gitdir/DLP_LINK11/src/network_tx/build_message_track.cpp" . 108411)
- ("t:/usr/local/editor/emacsW32/spacemacs/.cache/recentf" . 19551)
- ("t:/usr/local/editor/emacsW32/site-lisp/init/34_init-abbrev.org" . 2912)
  ("t:/gitdir/SIGCONV/proj/anacompintf/anacomplib/StatusObservation/CSODlgStatusSet_FFX.cpp" . 8492)
  ("t:/gitdir/SIGCONV/x.patch" . 352)
- ("u:/orgdir/" . 14)
- ("t:/gitdir/SIGCONV/"
-  (dired-filename . "t:/gitdir/SIGCONV/x.patch"))
  ("f:/MYSINGLE20130416/sent/cur/1477447788.50526ecfaf430269.dongil-pc;2,S" . 418)
  ("t:/gitdir/SIGCONV/proj/anacompintf/TopicWnd.cpp" . 2189)
  ("t:/gitdir/SIGCONV/proj/anacompintf/anacomplib/StatusObservation/CSODlgStatusSet_FFX.h" . 3872)
@@ -45,10 +230,6 @@
  ("t:/gitdir/SIGCONV/proj/anacompintf/AnacompIntf.vcproj" . 49)
  ("t:/FFX-II/devenv/ICMSSkinLib/include/Common/XTPCustomHeap.h" . 46)
  ("t:/FFX-II/devenv/ICMSSkinLib/include/Common/Includes.h" . 1203)
- ("t:/FFX/"
-  (dired-filename . "t:/FFX/MERGECFCS"))
- ("t:/gitdir/"
-  (dired-filename . "t:/gitdir/SIGCONV"))
  ("t:/gitdir/SIGCONV/proj/anacompintf/anacomplib/_Release/" . 1118)
  ("t:/FFX-II/"
   (dired-filename . "t:/FFX-II/devenv"))
@@ -66,25 +247,16 @@
   (dired-filename . "t:/FFX-II/devenv/ICMSSkinLib/include/SkinFramework"))
  ("t:/FFX-II/devenv/ICMSSkinLib/include/Common/"
   (dired-filename . "t:/FFX-II/devenv/ICMSSkinLib/include/Common/XTPCustomHeap.h"))
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/bookmark+-20161025.945/bookmark+-autoloads.el" . 26857)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/dired-quick-sort-20161025.1322/dired-quick-sort-autoloads.el" . 1610)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/evil-mc-20161025.1223/evil-mc-autoloads.el" . 1843)
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/find-file-in-project-20161025.516/find-file-in-project-autoloads.el" . 5920)
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/flycheck-20161025.551/flycheck-autoloads.el" . 8429)
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/helm-20161025.727/helm-autoloads.el" . 28567)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/helm-ag-20161025.809/helm-ag-autoloads.el" . 914)
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/helm-core-20161025.1029/helm-core-autoloads.el" . 6070)
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/ivy-20161024.2346/ivy-autoloads.el" . 3773)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/js2-mode-20161025.1012/js2-mode-autoloads.el" . 1628)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/persp-mode-20161025.507/persp-mode-autoloads.el" . 1370)
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/smartparens-20161025.1043/smartparens-autoloads.el" . 6594)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/xah-css-mode-20161025.341/xah-css-mode-autoloads.el" . 466)
  ("t:/gitdir/DLP_LINK11/src/common/utility.h" . 1980)
  ("t:/MLS2/zdeploy/mlsins/install.xml" . 171412)
  ("t:/gitdir/DLP_LINK11/x.patch" . 23933)
  ("t:/gitdir/DLP_LINK11/y.patch" . 1591)
- ("t:/gitdir/DLP_LINK11/"
-  (dired-filename . "t:/gitdir/DLP_LINK11/x.patch"))
  ("t:/MLS2/"
   (dired-filename . "t:/MLS2/2525C"))
  ("t:/MLS2/zdeploy/"
@@ -111,17 +283,13 @@
  ("t:/gitdir/DLP_LINK11/src/network_tx/network_tx.cpp" . 2893)
  ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m11m.cpp" . 42386)
  ("f:/MYSINGLE20130416/sent/cur/1477440090.73793c3d7a0fa2f6.dongil-pc;2,S" . 329)
- ("c:/Users/dongil/Desktop/ATX-DLPLINK11-DP-VS2008_ss_20161025170727.xml" . 37654)
  ("/pscp:scpuser@k3:/tmp/" . 423)
  ("t:/gitdir/DLP_LINK11/src/network_tx/"
   (dired-filename . "t:/gitdir/DLP_LINK11/src/network_tx/build_message_aircraft_control.cpp"))
  ("t:/gitdir/DLP_LINK11/src/"
   (dired-filename . "t:/gitdir/DLP_LINK11/src/GRTAGS"))
  ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m11m.h" . 3299)
- ("t:/gitdir/DLP_LINK11/proj/codesonar/stdint.h" . 1174)
  ("t:/gitdir/DLP_LINK11/src/include/link11_const.h" . 3776)
- ("t:/usr/local/editor/emacsW32/site-lisp/init/05_init-dired.el" . 10336)
- ("u:/spacemacs-home/.spacemacs" . 45)
  ("t:/gitdir/DLP_LINK11/src/db_access_main/periodic_controller.cpp" . 16356)
  ("t:/gitdir/DLP_LINK11/src/db_access_main/track_controller.cpp" . 14202)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/outshine-20161024.2158/outshine-autoloads.el" . 535)
@@ -139,7 +307,6 @@
  ("c:/Users/dongil/Downloads/project_vxworks/project_vxworks/src/"
   (dired-filename . "c:/Users/dongil/Downloads/project_vxworks/project_vxworks/src/.."))
  ("c:/Users/dongil/Downloads/project_vxworks/project_vxworks/" . 1015)
- ("t:/MLS2/규격화/work.org" . 46399)
  ("f:/MYSINGLE20130416/sent/cur/1477382527.2d799f9f1e9051df.dongil-pc;2,S" . 508)
  ("c:/Users/dongil/Downloads/44326.csv" . 2029)
  ("c:/Users/dongil/Downloads/44326(2).csv" . 38992)
@@ -147,25 +314,15 @@
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/emoji-cheat-sheet-plus-20150617.631/emoji-cheat-sheet-plus.el" . 9535)
  ("c:/Users/dongil/Downloads/44014.csv" . 4019)
  ("c:/Users/dongil/Downloads/44014(1).csv" . 34852)
- ("t:/usr/local/editor/emacsW32/spacemacs/" . 2067)
  ("c:/Users/dongil/Downloads/diff-branches_MPMERGE_CFCS_DLP_ISDL-from-25303-to-25401.diff" . 41252)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/org-plus-contrib-20161024/org-capture.el" . 60814)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/49_init-xah.org" . 10327)
  ("t:/MLS2/trunk/CFCS/SIGCONV/sbc6/diskHandler.cpp" . 217)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/org-plus-contrib-20161024/org.el" . 215262)
- ("c:/Users/dongil/Desktop/winiiss.vcproj" . 3567)
- ("c:/Users/dongil/Desktop/"
-  (dired-filename . "c:/Users/dongil/Desktop/link11-2.pptx"))
- ("t:/"
-  (dired-filename . "t:/ATX"))
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/org-plus-contrib-20161024/org-loaddefs.el" . 95128)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/bog-20161024.1828/bog-autoloads.el" . 10317)
- ("t:/usr/local/editor/emacsW32/site-lisp/elpa/magit-20161024.1349/magit-autoloads.el" . 55072)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/org-plus-contrib-20161024/org-plus-contrib-autoloads.el" . 42699)
  ("t:/usr/local/editor/emacsW32/site-lisp/elpa/spacemacs-theme-20161024.1259/spacemacs-theme-autoloads.el" . 593)
- ("t:/usr/local/editor/emacsW32/site-lisp/" . 514)
- ("t:/usr/local/editor/emacsW32/site-lisp/init/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/site-lisp/init/52_bigblow.org"))
  ("t:/usr/local/editor/emacsW32/spacemacs/CHANGELOG.org" . 60547)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/52_bigblow.org" . 42027)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/19_init-org.org" . 27)
@@ -202,8 +359,6 @@
  ("c:/Users/dongil/Downloads/winproj_report(29).csv" . 1817)
  ("c:/Users/dongil/Downloads/winproj_report(31).csv" . 1165)
  ("c:/Users/dongil/Downloads/winproj_report(32).csv" . 887)
- ("c:/Users/dongil/Desktop/IP_L11.vcproj" . 12712)
- ("c:/Users/dongil/Desktop/DP_L11.vcproj" . 12956)
  ("t:/MLS2/trunk/CFCS/SIGCONV/result.txt" . 513)
  ("t:/FFX/LBTS/5th/info.txt" . 21)
  ("c:/Users/dongil/Downloads/project_vxworks/project_vxworks/src/device/fileWriteTest/diskUtil.c.bak" . 490)
@@ -239,8 +394,6 @@
   (dired-filename . "t:/MLS2/trunk/CFCS/SIGCONV/proj/sbc6"))
  ("c:/Users/dongil/Downloads/project_vxworks/project_vxworks/src/project/FFX_proj/FFX_DIAG/diagRvrOBJ/"
   (dired-filename . "c:/Users/dongil/Downloads/project_vxworks/project_vxworks/src/project/FFX_proj/FFX_DIAG/diagRvrOBJ/.."))
- ("t:/usr/local/editor/emacsW32/cmdutils/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/cmdutils/dkwguile.vbs"))
  ("c:/Users/dongil/Downloads/project_vxworks/project_vxworks/src/project/FFX_proj/FFX_DIAG/"
   (dired-filename . "c:/Users/dongil/Downloads/project_vxworks/project_vxworks/src/project/FFX_proj/FFX_DIAG/.."))
  ("c:/Users/dongil/Downloads/project_vxworks/project_vxworks/src/project/FFX_proj/"
@@ -267,7 +420,6 @@
  ("t:/MLS2/trunk/CFCS/SIGCONV/misc/startScSbc1.cmd" . 1734)
  ("t:/MLS2/trunk/CFCS/SIGCONV/misc/startScSbc6.cmd" . 465)
  ("t:/FFX/LBTS/5th/works.org" . 3726)
- ("u:/orgdir/notes.org_archive" . 1101395)
  ("f:/MYSINGLE20130416/sent/cur/1477309269.67e920e55322003e.dongil-pc;2,S" . 371)
  ("c:/Users/dongil/Downloads/project_vxworks/project_vxworks/src/device/fileWriteTest/fileWriteTest.c" . 35607)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/35_init-evil.org" . 36059)
@@ -277,8 +429,6 @@
   (dired-filename . "t:/gitdir/dlpcachelib/src/lhash.cpp"))
  ("c:/Users/dongil/Downloads/di7979.kim@hanwha.com_받은 편지함_2016-10-24/"
   (dired-filename . "c:/Users/dongil/Downloads/di7979.kim@hanwha.com_받은 편지함_2016-10-24/2016-10-21 143115_김종성(jongsung Kim)_ATX CFCS SW QT 후속 조치 완료일  1028.eml"))
- ("t:/usr/local/editor/emacsW32/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs"))
  ("t:/usr/local/editor/emacsW32/spacemacs/.cache/"
   (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/.cache/.."))
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+emacs/org/local/evil-org/"
@@ -289,25 +439,17 @@
   (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+emacs/org/local"))
  ("u:/orgdir/backup.org" . 353788)
  ("t:/ATX/STR/work.org" . 1517)
- ("t:/usr/local/editor/emacsW32/site-lisp/init/02_init-macro.org" . 18858)
  ("t:/gitdir/dlpcachelib/src/lhash.cpp" . 5248)
  ("f:/MYSINGLE20130416/sent/cur/1477274086.7312a4a975eaefab.dongil-pc;2,S" . 342)
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+emacs/org/local/evil-org/evil-org.el" . 1197)
  ("f:/MYSINGLE20130416/sent/cur/1477271929.c76d317a8459b5b0.dongil-pc;2,S" . 376)
- ("t:/ATX/"
-  (dired-filename . "t:/ATX/STR"))
  ("t:/ATX/STR/"
   (dired-filename . "t:/ATX/STR/work.org"))
- ("t:/usr/local/editor/emacsW32/site-lisp/init/36_init-appearance.org" . 27738)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/05_init-dired.org" . 6582)
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+distributions/spacemacs/"
   (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+distributions/spacemacs/.."))
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+distributions/"
   (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+distributions/.."))
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+chat"))
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/helm/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/helm/local"))
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+distributions/spacemacs-bootstrap/"
   (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+distributions/spacemacs-bootstrap/."))
  ("t:/usr/local/editor/emacsW32/site-lisp/init/03_init-env.org" . 26)
@@ -324,12 +466,9 @@
  ("t:/usr/local/editor/emacsW32/cmdutils/dkwTORARDO.vbs" . 136)
  ("t:/gitdir/DLP_LINK11/a.patch" . 3)
  ("t:/gitdir/DLP_LINK11/src/dts_controller/intf_dts.cpp" . 23446)
- ("t:/gitdir/icmsins/install.xml" . 994)
  ("t:/gitdir/icmsins/.git/config" . 964)
  ("t:/gitdir/icmsins/.git/"
   (dired-filename . "t:/gitdir/icmsins/.git/config"))
- ("t:/gitdir/icmsins/"
-  (dired-filename . "t:/gitdir/icmsins/install.xml"))
  ("t:/gitdir/icmsins/ffxins.pyw" . 894)
  ("f:/MYSINGLE20130416/sent/cur/1477048864.dbf456961c601539.dongil-pc;2,S" . 345)
  ("t:/usr/local/editor/emacsW32/site-lisp/init/45_init-python.org" . 193)
@@ -341,7 +480,6 @@
   (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+lang/python/packages.el"))
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+lang/python/funcs.el" . 565)
  ("t:/usr/local/editor/emacsW32/spacemacs/layers/+lang/python/README.org" . 3507)
- ("u:/sigconvcs.org" . 65111)
  ("t:/gitdir/DLP_LINK11/src/dts_controller/dts_controller.cpp" . 10358)
  ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m5.cpp" . 40100)
  ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m12_0.cpp" . 11024)
@@ -357,117 +495,9 @@
  ("t:/gitdir/DLP_LINK11/src/remote_control/remote_control.cpp" . 6713)
  ("t:/usr/local/editor/emacsW32/spacemacs/core/core-auto-completion.el" . 406)
  ("u:/spacemacs-home/xxx.el" . 181)
- ("u:/xxx.el" . 233)
  ("t:/usr/local/editor/emacsW32/spacemacs/core/"
   (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/core/core-auto-completion.el"))
  ("t:/gitdir/DLP_LINK11/proj/"
   (dired-filename . "t:/gitdir/DLP_LINK11/proj/.."))
  ("t:/usr/local/keytweak/" . 465)
- ("u:/abcd.txt" . 24)
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/README.org" . 2838)
- ("t:/usr/local/editor/emacsW32/site-lisp/init/39_init-expand.org" . 2401)
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/packages.el" . 10409)
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/funcs.el" . 327)
- ("u:/spacemacs-home/tttt.el" . 17)
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/local/snippets/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/local/snippets/.."))
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/local/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/local/.."))
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/funcs.el"))
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/config.el" . 1545)
- ("u:/xxx.cpp" . 28)
- ("u:/xxx.txt" . 13)
- ("c:/Users/dongil/Downloads/script_2_196(1).sh" . 147)
- ("t:/usr/local/ffxsvn/bin/"
-  (dired-filename . "t:/usr/local/ffxsvn/bin/.."))
- ("t:/usr/local/ffxsvn/"
-  (dired-filename . "t:/usr/local/ffxsvn/ffxsvn.py~"))
- ("t:/usr/local/ffxsvn/ffxsvn.py" . 144138)
- ("f:/MYSINGLE20130416/sent/cur/1476949711.fb31fed6002d6b86.dongil-pc;2,S" . 323)
- ("t:/gitdir/DLP_LINK11/src/network_tx/build_message_ew_coord.cpp" . 27592)
- ("f:/MYSINGLE20130416/sent/cur/1476945605.0ed57603f10ffad8.dongil-pc;2,S" . 390)
- ("f:/MYSINGLE20130416/sent/cur/1476942913.aa861761e35aec26.dongil-pc;2,S" . 303)
- ("f:/MYSINGLE20130416/sent/cur/1476939991.16d4ae01add398ba.dongil-pc;2,S" . 424)
- ("c:/Users/dongil/Downloads/install-ffx2(5).xml" . 70481)
- ("c:/Users/dongil/Downloads/env_196(1).sh" . 677)
- ("c:/Users/dongil/Downloads/iiss_env1(1).sh" . 802)
- ("c:/Users/dongil/Downloads/iiss_env2.sh" . 620)
- ("c:/Users/dongil/Downloads/atxlinbuildserver(1)/ATX/IISS/env_196.sh" . 212)
- ("c:/Users/dongil/Downloads/atxlinbuildserver(1)/ATX/IISS/startup_tmuxpane.sh" . 834)
- ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m6a.cpp" . 7426)
- ("c:/Users/dongil/Downloads/atxlinbuildserver(1)/"
-  (dired-filename . "c:/Users/dongil/Downloads/atxlinbuildserver(1)/."))
- ("c:/Users/dongil/Downloads/atxwinbuildserver/"
-  (dired-filename . "c:/Users/dongil/Downloads/atxwinbuildserver/ATX_FFX2"))
- ("c:/Users/dongil/Downloads/atxlinbuildserver(1)/ATX/"
-  (dired-filename . "c:/Users/dongil/Downloads/atxlinbuildserver(1)/ATX/IISS"))
- ("c:/Users/dongil/Downloads/atxlinbuildserver(1)/ATX/IISS/"
-  (dired-filename . "c:/Users/dongil/Downloads/atxlinbuildserver(1)/ATX/IISS/startup_tmuxpane.sh"))
- ("f:/MYSINGLE20130416/sent/cur/1476930724.3ff37badaec1c1d9.dongil-pc;2,S" . 344)
- ("f:/MYSINGLE20130416/sent/cur/1476924728.2887e2b3f248eec6.dongil-pc;2,S" . 286)
- ("t:/usr/local/editor/emacsW32/site-lisp/init/07_init-key.org" . 13489)
- ("t:/usr/local/editor/"
-  (dired-filename . "t:/usr/local/editor/emacsW32"))
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/+lang/c-c++/"
-  (dired-filename . "t:/usr/local/editor/emacsW32/spacemacs/layers/+lang/c-c++/funcs.el"))
- ("u:/orgdir/unicodexam.txt" . 452)
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/+lang/c-c++/funcs.el" . 2352)
- ("t:/usr/local/editor/emacsW32/site-lisp/init/07_init-key.el" . 498)
- ("t:/usr/local/editor/emacsW32/site-lisp/init/60_init-desktop.org" . 15069)
- ("t:/usr/local/editor/emacsW32/site-lisp/init/28_init-mu4e.org" . 3424)
- ("t:/usr/local/editor/emacsW32/site-lisp/init/22_init-buffer.org" . 7403)
- ("t:/usr/local/editor/emacsW32/site-lisp/init/12_init-misc.org" . 82518)
- ("u:/xxx.org" . 2341)
- ("c:/Users/dongil/Downloads/NotoEmoji-unhinted/NotoEmoji-Regular.ttx" . 99)
- ("f:/MYSINGLE20130416/sent/cur/1476869728.2108d462ef0ae900.dongil-pc;2,S" . 334)
- ("t:/gitdir/DLP_LINK11/src/network_rx/process_message_m4c.cpp" . 21798)
- ("t:/gitdir/DLP_LINK11/src/network_tx/build_message_pairing_association.cpp" . 14623)
- ("t:/gitdir/DLP_LINK11/src/network_rx/received_frame_filter.h" . 866)
- ("u:/orgdir/link11dlra.patch" . 88649)
- ("t:/gitdir/DLP_LINK11/src/network_rx/mmsg_buff.cpp" . 42589)
- ("t:/gitdir/SIGCONV/topic/"
-  (dired-filename . "t:/gitdir/SIGCONV/topic/IISS_FFXII_COMMON.idl"))
- ("t:/gitdir/SIGCONV/common/"
-  (dired-filename . "t:/gitdir/SIGCONV/common/sigconvIPAnacompInterface.cpp"))
- ("t:/gitdir/SIGCONV/startup/signalConverterWITHNDDS.cpp" . 11309)
- ("t:/gitdir/SIGCONV/common/sigconvIPAnacompInterface.cpp" . 33696)
- ("t:/gitdir/SIGCONV/common/serverUtil.cpp" . 27222)
- ("t:/gitdir/DLP_LINK11/src/csds_manager/track_output.cpp" . 18723)
- ("t:/gitdir/DLP_LINK11/src/csds_manager/track_input.cpp" . 187126)
- ("t:/gitdir/DLP_LINK11/src/csds_manager/parameter_adapter.h" . 2562)
- ("f:/MYSINGLE20130416/sent/cur/1476840063.53ff34fb08eaa04d.dongil-pc;2,S" . 367)
- ("c:/Users/dongil/Downloads/install-ffx2(4).xml" . 89964)
- ("u:/txt.org" . 56)
- ("c:/Users/dongil/Downloads/NotoEmoji-unhinted/"
-  (dired-filename . "c:/Users/dongil/Downloads/NotoEmoji-unhinted/LICENSE_OFL.txt"))
- ("c:/Users/dongil/Downloads/Unidings/"
-  (dired-filename . "c:/Users/dongil/Downloads/Unidings/Unidings.ttf"))
- ("t:/PKGA/ISDL_DLP/isdl_dlp/isdlcsdsinterface.h" . 6943)
- ("t:/PKGA/ISDL_DLP/isdl_dlp/isdliddmsg.h" . 48902)
- ("t:/PKGA/"
-  (dired-filename . "t:/PKGA/ISDL_DLP"))
- ("t:/PKGA/ISDL_DLP/"
-  (dired-filename . "t:/PKGA/ISDL_DLP/isdl_dlp"))
- ("t:/PKGA/ISDL_DLP/isdl_dlp/"
-  (dired-filename . "t:/PKGA/ISDL_DLP/isdl_dlp/isdlcsdsinterface.cpp"))
- ("t:/icms/"
-  (dired-filename . "t:/icms/bin"))
- ("t:/ICD/" . 1338)
- ("t:/KSS/"
-  (dired-filename . "t:/KSS/LBTS"))
- ("t:/KSS/LBTS/"
-  (dired-filename . "t:/KSS/LBTS/STR"))
- ("t:/KSS/LBTS/STR/" . 555)
- ("t:/usr/local/editor/emacsW32/site-lisp/init/34_init-abbrev.el" . 8505)
- ("t:/usr/local/editor/emacsW32/site-lisp/init/12_init-misc.el" . 73728)
- ("t:/usr/local/editor/emacsW32/site-lisp/init/02_init-macro.el" . 68627)
- ("t:/usr/local/editor/emacsW32/spacemacs/core/core-dotspacemacs.el" . 24609)
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/+chat/rcirc/local/rcirc-reconnect/rcirc-reconnect.el" . 1548)
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/+intl/chinese/packages.el" . 3197)
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/+lang/windows-scripts/local/dos/dos.el" . 13248)
- ("t:/usr/local/editor/emacsW32/spacemacs/layers/+vim/vinegar/funcs.el" . 3070)
- ("t:/usr/local/editor/emacsW32/spacemacs/core/core-funcs.el" . 9603)
- ("t:/PKGA/ISDL_DLP/isdl_dlp/isdlcsdsinterface.cpp" . 19149)
- ("t:/PKGA/ISDL_DLP/isdl_dlp/isdltnmanager.cpp" . 24126)
- ("t:/PKGA/ISDL_DLP/isdl_dlp/Gct.cpp" . 15313))
+ ("t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/auto-completion/README.org" . 2838))

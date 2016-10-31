@@ -14,6 +14,7 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "t:/"
  "t:/gitdir/DLP_LINK11/"
  "t:/gitdir/DLP_LINK11/src/"
  "c:/Users/dongil/Downloads/project_vxworks/project_vxworks/src/"
@@ -41,7 +42,6 @@
  "z:/MLS-II/1. 규격화/신뢰성/05. 시험결과 보고서/00. false alarm 보고서/01. 정적시험-코딩룰(QAC++)/"
  "t:/usr/local/editor/emacsW32/site-lisp/elpa/helm-dired-history-20161023.806/"
  "t:/usr/local/editor/emacsW32/site-lisp/init/"
- "t:/"
  "t:/usr/local/editor/emacsW32/spacemacs/layers/+distributions/spacemacs-bootstrap/"
  "t:/usr/local/editor/emacsW32/spacemacs/layers/+completion/helm/"
  "t:/gitdir/DLP_LINK11/src/network_rx/"
@@ -68,6 +68,7 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "pptx.sh"
  "unicodexam.txt"
  "figsigconv.txt"
 )

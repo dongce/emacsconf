@@ -303,12 +303,14 @@ removal."
            (t (concat "/sudo:root@localhost:" fname))))))
 
 ;; check when opening large files - literal file open
+(defcustom confirm-check-large-file nil "confirm check large file")
 (defun spacemacs/check-large-file ()
   (let* ((filename (buffer-file-name))
          (size (nth 7 (file-attributes filename))))
     (when (and
            (not (memq major-mode spacemacs-large-file-modes-list))
            size (> size (* 1024 1024 dotspacemacs-large-file-size))
+           confirm-check-large-file 
            (y-or-n-p (format (concat "%s is a large file, open literally to "
                                      "avoid performance issues?")
                              filename)))

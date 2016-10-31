@@ -2,98 +2,98 @@
 ;; ----- smex-history -----
 (
  ibuffer
- occur
- ag
- dired-mark-files-regexp
- dired-mark-sexp
- paradox-upgrade-packages
- toggle-read-only
- diff-hunk-next
- diff-hl-next-hunk
- evil-normal-state
- whitespace-mode
- woman
- replace-string
- ido-mode
- hide-lines
- savehist-mode
- recover-this-file
- exit-recursive-edit
- hide-lines-matching
- dired-sort-toggle-or-edit
- c-mode
- org-capture
- grep
- flush-lines
- org-version
- run-python
- indent-region
- count-words-region
  bm-toggle
- helm-mode
- init-loader-show-log
+ bm-next
+ orgmail
+ copy-rectangle-as-kill
+ copy-rectangle-to-clipboard
+ counsel-dired-jump
+ widen
+ flush-lines
+ org-table-align
+ org-table-insert-row
+ parline
+ replace-regexp
+ recover-this-file
  paradox-list-packages
+ occur
+ replace-string
+ init-loader-show-log
+ indent-region
+ grep
+ xah-find-text
+ org-mode
+ text-mode
+ ivy-mode
+ narrow-to-region
+ browse-kill-ring
+ auto-fill-mode
+ toggle-truncate-lines
+ describe-coding-system
+ shell
+ company-bbdb
+ epa-encrypt-file
 )
 
 ;; ----- smex-data -----
 (
  (emacs-lisp-mode . 1)
- (ibuffer . 63)
+ (ibuffer . 88)
  (edebug-defun . 3)
- (replace-string . 16)
- (init-loader-show-log . 5)
+ (replace-string . 36)
+ (init-loader-show-log . 7)
  (exit-recursive-edit . 2)
  (helm-company . 1)
  (company-files . 4)
- (occur . 66)
+ (occur . 89)
  (count-words-region . 6)
- (grep . 38)
+ (grep . 55)
  (org-evil-mode . 3)
  (flush-empty-lines . 13)
- (widen . 3)
+ (widen . 5)
  (highlight-symbol . 1)
  (highlight-regexp . 1)
- (flush-lines . 28)
- (narrow-to-region . 3)
+ (flush-lines . 56)
+ (narrow-to-region . 5)
  (insert-char . 1)
- (indent-region . 6)
+ (indent-region . 7)
  (python-shell-switch-to-shell . 3)
- (w32-find-dired . 38)
+ (w32-find-dired . 43)
  (run-python . 6)
  (fbmk2 . 3)
- (orgmail . 8)
+ (orgmail . 9)
  (whitespace-mode . 8)
  (global-set-key . 4)
  (refine-all . 5)
  (evil-normal-state . 9)
  (toggle-read-only . 18)
  (org-insert-alllink . 4)
- (bm-toggle . 5)
- (text-mode . 3)
+ (bm-toggle . 10)
+ (text-mode . 5)
  (c-mode . 1)
  (quelpa . 1)
  (query-replace . 1)
- (paradox-list-packages . 5)
+ (paradox-list-packages . 7)
  (helm-dired-history-view . 3)
  (evil-emacs-state . 1)
- (mu . 9)
- (version . 1)
+ (mu . 10)
+ (version . 3)
  (savehist-mode . 2)
  (ido-mode . 9)
  (mu4e . 3)
- (strline . 2)
- (helm-mode . 5)
+ (strline . 10)
+ (helm-mode . 7)
  (counsel-find-file . 1)
  (org-capture . 49)
- (org-mode . 1)
- (browse-kill-ring . 3)
+ (org-mode . 3)
+ (browse-kill-ring . 5)
  (ag . 24)
  (org-refile . 1)
  (helm-org-agenda-files-headings . 1)
  (helm-org-in-buffer-headings . 3)
  (helm-org-run-heading-refile . 2)
  (helm-org-headings . 13)
- (recover-this-file . 2)
+ (recover-this-file . 4)
  (dos2unix . 1)
  (company-mode . 1)
  (indent-pp-sexp . 1)
@@ -111,18 +111,40 @@
  (hide-lines . 2)
  (hide-lines-matching . 2)
  (ediff-buffers . 1)
- (uniquify-region . 5)
- (paradox-upgrade-packages . 3)
+ (uniquify-region . 6)
+ (paradox-upgrade-packages . 6)
  (trace-function . 1)
- (auto-fill-mode . 1)
+ (auto-fill-mode . 2)
  (2-zip . 1)
  (ggtags-find-definition . 4)
  (ggtags-prev-mark . 3)
  (woman . 1)
  (diff-hl-next-hunk . 2)
  (diff-hunk-next . 1)
- (what . 1)
+ (what . 6)
  (dired-mark-sexp . 1)
  (dired-mark-files-regexp . 1)
  (w32explore . 1)
+ (epa-encrypt-file . 8)
+ (replace-regexp . 4)
+ (ivy-mode . 4)
+ (ivy-switch-buffer . 1)
+ (2-7zip . 1)
+ (shell . 4)
+ (unzip . 2)
+ (set-middle . 3)
+ (singleid . 2)
+ (strip-trailing-whitespace . 1)
+ (dpaste-region . 4)
+ (company-bbdb . 1)
+ (describe-coding-system . 2)
+ (toggle-truncate-lines . 2)
+ (xah-find-text . 1)
+ (org-table-align . 3)
+ (parline . 1)
+ (org-table-insert-row . 2)
+ (counsel-dired-jump . 1)
+ (copy-rectangle-to-clipboard . 1)
+ (copy-rectangle-as-kill . 2)
+ (bm-next . 2)
 )
