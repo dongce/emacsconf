@@ -21,6 +21,8 @@
 
 (define-abbrev-table 'bat-mode-abbrev-table '())
 
+(define-abbrev-table 'bbdb-mode-abbrev-table '())
+
 (define-abbrev-table 'bc-mode-abbrev-table '())
 
 (define-abbrev-table 'bibtex-mode-abbrev-table '())
@@ -243,6 +245,7 @@
     ("8bg" "background" nil 0)
     ("8bhazard" "☣" nil 0)
     ("8bio" "☣" nil 0)
+    ("8bomb" "💣" nil 0)
     ("8bq" "㏃" nil 0)
     ("8bs" "␈" nil 0)
     ("8c" "㏄" nil 0)
@@ -887,6 +890,8 @@
 (define-abbrev-table 'special-mode-abbrev-table '())
 
 (define-abbrev-table 'speedbar-mode-abbrev-table '())
+
+(define-abbrev-table 'sql-mode-abbrev-table '())
 
 (define-abbrev-table 'svn-log-edit-mode-abbrev-table '())
 
