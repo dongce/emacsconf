@@ -314,7 +314,7 @@ removal."
                (y-or-n-p (format (concat "%s is a large file, open literally to "
                                          "avoid performance issues?")
                                  filename))))
-      (setq buffer-read-only t)
+      ;;(setq buffer-read-only t)
       (turn-off-show-smartparens-mode)
       (buffer-disable-undo)
       (fundamental-mode))))

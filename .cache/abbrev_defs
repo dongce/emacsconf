@@ -99,6 +99,8 @@
     ("while" "while" cperl-electric-keyword 0)
    ))
 
+(define-abbrev-table 'csv-mode-abbrev-table '())
+
 (define-abbrev-table 'debugger-mode-abbrev-table '())
 
 (define-abbrev-table 'diary-fancy-display-mode-abbrev-table '())
@@ -333,6 +335,7 @@
     ("8diamond" "◆" nil 0)
     ("8ditto" "ditto -ck --sequesterRsrc --keepParent src dest" nil 0)
     ("8div" "÷" nil 0)
+    ("8divide" "÷" nil 0)
     ("8dl" "㎗" nil 0)
     ("8dollar" "$" nil 0)
     ("8dong" "₫" nil 0)
@@ -508,6 +511,9 @@
     ("8ms" "㎳" nil 0)
     ("8msw" "Microsoft Windows" nil 0)
     ("8mu" "μ" nil 0)
+    ("8mul" "×" nil 0)
+    ("8mulh" "✖" nil 0)
+    ("8mulx" "✕" nil 0)
     ("8mv" "㎹" nil 0)
     ("8mw" "㎿" nil 0)
     ("8na" "㎁" nil 0)
@@ -597,6 +603,7 @@
     ("8s2" "☆" nil 0)
     ("8s3" "⚝" nil 0)
     ("8s4" "✡" nil 0)
+    ("8safety" "⛑" nil 0)
     ("8sc1" "◐" nil 0)
     ("8sc10" "⚇" nil 0)
     ("8sc11" "⚈" nil 0)
@@ -620,11 +627,13 @@
     ("8si" "∑" nil 0)
     ("8signed" "☡" nil 0)
     ("8sim" "시뮬레이터" nil 0)
+    ("8sine" "∿" nil 0)
     ("8skull" "💀" nil 0)
     ("8sl" "Second Life" nil 0)
     ("8sliding" "⛐" nil 0)
     ("8smly" "☺" nil 0)
     ("8sn" "✔" nil 0)
+    ("8sparcle" "✨" nil 0)
     ("8square" "■" nil 0)
     ("8ss" "🌠" nil 0)
     ("8ss1" "▶" nil 0)
@@ -644,6 +653,7 @@
     ("8ss8" "☽" nil 0)
     ("8ss9" "☣" nil 0)
     ("8ssh" "ssh xah@xahlee.org" nil 0)
+    ("8sstar" "🌠" nil 0)
     ("8stop" "⛔" nil 0)
     ("8str" "\\([^\"]+?\\)\"" nil 0)
     ("8subset" "⊂" nil 0)
@@ -773,6 +783,10 @@
 
 (define-abbrev-table 'log4e-mode-abbrev-table '())
 
+(define-abbrev-table 'logview-filter-edit-mode-abbrev-table '())
+
+(define-abbrev-table 'logview-mode-abbrev-table '())
+
 (define-abbrev-table 'magit-cherry-mode-abbrev-table '())
 
 (define-abbrev-table 'magit-diff-mode-abbrev-table '())
@@ -802,6 +816,18 @@
 (define-abbrev-table 'magit-stashes-mode-abbrev-table '())
 
 (define-abbrev-table 'magit-status-mode-abbrev-table '())
+
+(define-abbrev-table 'makefile-automake-mode-abbrev-table '())
+
+(define-abbrev-table 'makefile-bsdmake-mode-abbrev-table '())
+
+(define-abbrev-table 'makefile-gmake-mode-abbrev-table '())
+
+(define-abbrev-table 'makefile-imake-mode-abbrev-table '())
+
+(define-abbrev-table 'makefile-makepp-mode-abbrev-table '())
+
+(define-abbrev-table 'makefile-mode-abbrev-table '())
 
 (define-abbrev-table 'markdown-mode-abbrev-table '())
 
