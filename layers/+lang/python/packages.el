@@ -18,7 +18,7 @@
     eldoc
     evil-matchit
     flycheck
-    ggtags
+    ;;ggtags
     helm-cscope
     helm-gtags
     (helm-pydoc :toggle (configuration-layer/package-usedp 'helm))
