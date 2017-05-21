@@ -269,7 +269,7 @@ you should place your code here."
   (add-to-list 'load-path (concat emacsw32-home "/ergoemacs/packages"))
   (require 'evil-mode-line)
 
-  (shell-command "xmodmap /etc/X11/Xmodmap")
+  (shell-command "xmodmap ~/Xmodmap")
 
   (require 'cl)
 
@@ -387,7 +387,6 @@ you should place your code here."
  '(elpy-rpc-backend nil)
  '(elpy-rpc-ignored-buffer-size 10240)
  '(elpy-rpc-python-command "python3")
- '(epg-gpg-program "t:/usr/local/gpg2/gpg2.exe")
  '(evil-cross-lines t)
  '(evil-emacs-state-modes
    (quote
@@ -616,7 +615,7 @@ DEADLINE: %(org-insert-time-stamp (org-read-date nil t \"+0d\"))")
  '(org-latex-pdf-process
    (quote
     ("pdflatex -shell-escape -interaction nonstopmode -output-directory %o %f" "xelatex -shell-escape -interaction nonstopmode -output-directory %o %f")))
- '(org-log-done (quote time) t)
+ '(org-log-done (quote time))
  '(org-plantuml-jar-path
    "T:\\usr\\local\\editor\\emacsW32\\site-lisp\\thirdparty\\plantuml\\plantuml.jar")
  '(org-refile-use-outline-path (quote file))
@@ -712,10 +711,8 @@ DEADLINE: %(org-insert-time-stamp (org-read-date nil t \"+0d\"))")
  '(ps2pdf-gs-program
    "t:\\usr\\local\\postscript\\ghostscript\\bin\\gswin32c.exe")
  '(python-check-command "pyflakes")
- '(python-shell-interpreter "ipython.exe")
- '(python-shell-interpreter-args "--colors=NoColor")
- '(python-shell-prompt-output-regexp "Out\\[[0-9]+\\]: ")
- '(python-shell-prompt-regexp "In \\[[0-9]+\\]: ")
+ '(python-shell-interpreter "ipython")
+ '(python-shell-interpreter-args "-i")
  '(quack-programs
    (quote
     ("t:/usr/local/guile/bin/winprojcd.exe" "c:/usr" "c:\\icms\\CFCS\\DLPLINK11\\DLPLINK11\\proj\\winproj2005\\Debug\\winproj.exe" ".\\winproj.exe" "MFC_TDL_ISDL_GEN_CTRL" "bigloo" "c:/icms/CFCS/DLPLINK11/DLPLINK11/proj/winproj2005/Debug/winproj.exe" "c:/usr/local/guile/bin/winprojcd.exe" "c:\\ffx\\CFCS\\ICU_KNCCS\\ProjWin\\Debug\\icuknccs_win.exe" "codes" "csi" "csi -hygienic" "gosh" "gsi" "gsi ~~/syntax-case.scm -" "guile" "icuknccs_win.exe" "isdlcd" "isdlcde" "kawa" "mit-scheme" "mred -z" "mzscheme" "mzscheme -M errortrace" "rs" "rs232" "scheme" "scheme48" "scsh" "sisc" "stklos" "sxi" "tinyscheme" "win" "winprocd" "winproj.exe" "winprojcd" "winprojcdc" "winrpojcd" "winsigconv" "winsigconv.exe")))
