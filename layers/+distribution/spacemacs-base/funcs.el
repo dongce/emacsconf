@@ -342,13 +342,13 @@ argument takes the kindows rotate backwards."
             (buffer-name))))
 
 ;; http://camdez.com/blog/2013/11/14/emacs-show-buffer-file-name/
-(defun spacemacs/show-and-copy-buffer-filename ()
+(defun spacemacs/show-and-copy-buffer-filename ( args )
   "Show the full path to the current file in the minibuffer."
-  (interactive)
+  (interactive "P")
   ;; list-buffers-directory is the variable set in dired buffers
   (let ((file-name (or (buffer-file-name) list-buffers-directory)))
     (if file-name
-        (message (kill-new file-name))
+        (message (kill-new  (replace-regexp-in-string "/" "\\" file-name nil t)  ))
       (error "Buffer not visiting a file"))))
 
 ;; adapted from bozhidar
